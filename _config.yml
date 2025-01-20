@@ -1,0 +1,65 @@
+title: Building Bridges
+description: Tools for Social Cohesion
+baseurl: "/Spring_ccc_class" # the subpath of your site
+url: "" # the base hostname & protocol for your site
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Enable or disable the site search
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Aux links for the upper right navigation
+aux_links:
+  "Canvas":
+    - "/#"
+  "Forum":
+    - "/#"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive
+
+# External navigation links
+nav_external_links:
+  - title: Feedback Form
+    url: /#
+    hide_icon: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content
+footer_content: ""
+
+# Callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: blue
+  important:
+    title: Important
+    color: yellow
+
+# Enable copy code button
+enable_copy_code_button: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag 
