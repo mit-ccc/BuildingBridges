@@ -1,7 +1,7 @@
 title: Building Bridges
 description: Tools for Social Cohesion
-baseurl: "/Spring_ccc_class" # the subpath of your site
-url: "" # the base hostname & protocol for your site
+baseurl: "/BuildingBridges" # the subpath of your site
+url: "https://mit-ccc.github.io" # the base hostname & protocol for your site
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
@@ -62,4 +62,4 @@ enable_copy_code_button: true
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag 
+  - jekyll-remote-theme 
