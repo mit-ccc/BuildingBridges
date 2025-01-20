@@ -6,11 +6,15 @@ nav_order: 2
 
 # Course Schedule
 
-{: .note }
-> **Course Details**  
-> Tuesdays and Thursdays  
-> Location: E14  
-> Units: 3-0-9
+{: .lecture }
+> **Lecture Location**  
+> E14-633  
+> Tuesdays and Thursdays 11:00 AM - 12:30 PM
+
+{: .lab }
+> **Lab Location**  
+> E14-648  
+> Thursdays 2:00 PM - 3:30 PM
 
 {: .highlight-title }
 > # Section 1: Roots of Fragmentation
@@ -22,8 +26,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Feb 4 | **Lecture:** Course overview<br>- Zoom out on factors (economic, social, technological, environmental, etc) |
-| Feb 6 | **Lab:** Public Narrative<br>- Scoping and eliciting interest/motivation from the students<br>- Start Public Narrative |
+| Feb 4 {: .lecture } | Course overview<br>- Zoom out on factors (economic, social, technological, environmental, etc) |
+| Feb 6 {: .lab } | Public Narrative<br>- Scoping and eliciting interest/motivation from the students<br>- Start Public Narrative |
 
 **Assignments**
 {: .label .label-yellow }
@@ -37,8 +41,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Feb 11 | **Lecture:** Social Capital & Democracy<br>- Civic associations (schools for democracy)<br>- Social capital (bridging, bonding)<br>- Small is beautiful<br>- Atrophied local politics |
-| Feb 13 | **Lab:** Public Narrative [Forming Teams] |
+| Feb 11 {: .lecture } | Social Capital & Democracy<br>- Civic associations (schools for democracy)<br>- Social capital (bridging, bonding)<br>- Small is beautiful<br>- Atrophied local politics |
+| Feb 13 {: .lab } | Public Narrative [Forming Teams] |
 
 **Assignments**
 {: .label .label-yellow }
@@ -56,8 +60,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Feb 18 | **No Class** - Presidents Day |
-| Feb 20 | **Lecture:** Media and Social Media<br>- Impact of social media on public discourse<br>- Challenges and opportunities in digital spaces |
+| Feb 18 {: .note } | **No Class** - Presidents Day |
+| Feb 20 {: .lecture } | Media and Social Media<br>- Impact of social media on public discourse<br>- Challenges and opportunities in digital spaces |
 
 **Readings**
 {: .label .label-purple }
@@ -76,8 +80,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Feb 25 | **Lecture:** Relationships<br>- Understanding relationship-based organizing<br>- Building meaningful connections |
-| Feb 27 | **Lab:** Relationship Building<br>- Practice 1:1 conversations<br>- Team formation activities |
+| Feb 25 {: .lecture } | Relationships<br>- Understanding relationship-based organizing<br>- Building meaningful connections |
+| Feb 27 {: .lab } | Relationship Building<br>- Practice 1:1 conversations<br>- Team formation activities |
 
 **Assignments**
 {: .label .label-yellow }
@@ -93,8 +97,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Mar 4 | **Lecture:** Structure & Organization<br>- Democracy in teams<br>- Leadership development<br>- Snowflake model |
-| Mar 6 | **Lab:** Team Launch<br>- Establishing team dynamics<br>- Setting expectations |
+| Mar 4 {: .lecture } | Structure & Organization<br>- Democracy in teams<br>- Leadership development<br>- Snowflake model |
+| Mar 6 {: .lab } | Team Launch<br>- Establishing team dynamics<br>- Setting expectations |
 
 **Assignments**
 {: .label .label-yellow }
@@ -112,8 +116,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Mar 12 | **Lecture:** Campaign Design<br>- Designing a Campaign (Strategy, Action)<br>- Leadership development principles |
-| Mar 14 | **Lab:** Conversation Campaign<br>- Designing your conversation campaign<br>- Planning implementation |
+| Mar 12 {: .lecture } | Campaign Design<br>- Designing a Campaign (Strategy, Action)<br>- Leadership development principles |
+| Mar 14 {: .lab } | Conversation Campaign<br>- Designing your conversation campaign<br>- Planning implementation |
 
 **Assignments**
 {: .label .label-yellow }
@@ -124,8 +128,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Mar 18 | **Lecture:** Dialogue & Public Opinion<br>- Conversation / Dialogue / Listening<br>- Public opinion vs. public thought<br>- Agency setting via prompt design<br>- Limitations of traditional methods<br>- Random selection vs. circles of trust |
-| Mar 20 | **Lab:** Dialogue Design<br>- Designing dialogue processes<br>- Recruitment strategies<br>- Facilitation practice |
+| Mar 18 {: .lecture } | Dialogue & Public Opinion<br>- Conversation / Dialogue / Listening<br>- Public opinion vs. public thought<br>- Agency setting via prompt design<br>- Limitations of traditional methods<br>- Random selection vs. circles of trust |
+| Mar 20 {: .lab } | Dialogue Design<br>- Designing dialogue processes<br>- Recruitment strategies<br>- Facilitation practice |
 
 **Assignments**
 {: .label .label-yellow }
@@ -153,8 +157,8 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Apr 1 | **Lecture:** Sensemaking<br>- Patterns across conversations<br>- Analytics vs. Sensemaking<br>- Kathy Cramer's method<br>- Qualitative research methods<br>- Evolution of CCC approach |
-| Apr 3 | **Lab:** Leadership & AI<br>- Kickoffs and Building Leadership<br>- AI Sensemaking techniques |
+| Apr 1 {: .lecture } | Sensemaking<br>- Patterns across conversations<br>- Analytics vs. Sensemaking<br>- Kathy Cramer's method<br>- Qualitative research methods<br>- Evolution of CCC approach |
+| Apr 3 {: .lab } | Leadership & AI<br>- Kickoffs and Building Leadership<br>- AI Sensemaking techniques |
 
 **Assignments**
 {: .label .label-yellow }
@@ -165,17 +169,17 @@ nav_order: 2
 
 | Date | Topic |
 |:-----|:------|
-| Apr 8 | **Lecture:** Output Creation<br>- Creating and sharing outputs from sensemaking |
-| Apr 10 | **Lab:** Sensemaking Practice |
-| Apr 15 | **Lecture:** Human-AI Collaboration<br>- Division of labor between people and AI |
-| Apr 17 | **Lab:** Sharing Workshop |
-| Apr 22 | **Lecture:** Tech-Enhanced Dialogue<br>- Case studies in tech-enhanced listening/bridging/deliberation |
-| Apr 24 | **Lab:** Project Support<br>- Coaching through Challenges |
-| Apr 29 | **Lecture:** Digital Democracy<br>- Tech-enhanced deliberation: vTaiwan<br>- Guest: Audrey Tang (unconfirmed) |
-| May 1 | **Lab:** Project Support |
-| May 7 | **Lecture:** Conflict Mediation<br>- Tech-enhanced conflict mediation<br>- Guest: Andrew Konya (unconfirmed) |
-| May 9 | **Lab:** Final Presentations |
-| May 13 | **Final Class**<br>- Celebrations and Group Reflections |
+| Apr 8 {: .lecture } | Output Creation<br>- Creating and sharing outputs from sensemaking |
+| Apr 10 {: .lab } | Sensemaking Practice |
+| Apr 15 {: .lecture } | Human-AI Collaboration<br>- Division of labor between people and AI |
+| Apr 17 {: .lab } | Sharing Workshop |
+| Apr 22 {: .lecture } | Tech-Enhanced Dialogue<br>- Case studies in tech-enhanced listening/bridging/deliberation |
+| Apr 24 {: .lab } | Project Support<br>- Coaching through Challenges |
+| Apr 29 {: .lecture } | Digital Democracy<br>- Tech-enhanced deliberation: vTaiwan<br>- Guest: Audrey Tang (unconfirmed) |
+| May 1 {: .lab } | Project Support |
+| May 7 {: .lecture } | Conflict Mediation<br>- Tech-enhanced conflict mediation<br>- Guest: Andrew Konya (unconfirmed) |
+| May 9 {: .lab } | Final Presentations |
+| May 13 {: .lecture } | Final Class<br>- Celebrations and Group Reflections |
 
 **Assignments**
 {: .label .label-yellow }
