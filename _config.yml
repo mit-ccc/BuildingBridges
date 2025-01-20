@@ -50,12 +50,18 @@ callouts:
   warning:
     title: Warning
     color: red
-  note:
-    title: Note
+  lecture:
+    title: Lecture
     color: blue
-  important:
-    title: Important
+  lab:
+    title: Lab
+    color: green
+  assignment:
+    title: Assignment
     color: yellow
+  reading:
+    title: Reading
+    color: purple
 
 # Enable copy code button
 enable_copy_code_button: true
