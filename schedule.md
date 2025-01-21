@@ -202,41 +202,102 @@ Assignment
 - Hold your kickoffs! (first round of conversations at a public event)
 - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
-### Week 9-14
+### Week 9
 
 {: .lecture }
 **Mon, Apr 8 | Lecture**  
 Output Creation
 - Creating and sharing outputs from sensemaking
+- Synthesizing insights from conversations
+- Effective data visualization
+- Storytelling with data
+
+Readings
+{: .label .label-green }
+- Few, S. (2013). Data Visualization for Human Perception
+- Tufte, E. R. The Visual Display of Quantitative Information (selected chapters)
+- Additional readings on data storytelling
 
 {: .lab }
 **Wed, Apr 10 | Lab**  
 Sensemaking Practice
+- Working with conversation data
+- Pattern identification
+- Theme development
+- Creating visual summaries
+
+Assignment
+{: .label .label-red }
+- Create initial synthesis of your conversation data
+- Prepare preliminary visualizations
+
+### Week 10
 
 {: .lecture }
 **Mon, Apr 15 | Lecture**  
 Human-AI Collaboration
 - Division of labor between people and AI
+- AI-assisted qualitative analysis
+- Ethical considerations
+- Best practices for human-AI teaming
+
+Readings
+{: .label .label-green }
+- AI and Democracy readings (selected)
+- Human-AI collaboration case studies
+- Ethics of AI in social research
 
 {: .lab }
 **Wed, Apr 17 | Lab**  
 Sharing Workshop
+- Peer feedback sessions
+- Refining presentations
+- Improving visualizations
+- Story structure development
+
+Assignment
+{: .label .label-red }
+- Incorporate AI tools into your analysis process
+- Document insights and challenges
+
+### Week 11
 
 {: .lecture }
 **Mon, Apr 22 | Lecture**  
 Tech-Enhanced Dialogue
 - Case studies in tech-enhanced listening/bridging/deliberation
+- Platform design principles
+- Success stories and failures
+- Future directions
+
+Readings
+{: .label .label-green }
+- Selected case studies of digital democracy platforms
+- Readings on civic tech successes and failures
+- Future of democracy and technology articles
 
 {: .lab }
 **Wed, Apr 24 | Lab**  
 Project Support
 - Coaching through Challenges
+- Technical troubleshooting
+- Strategy refinement
+- Implementation support
+
+Assignment
+{: .label .label-red }
+- Update project documentation
+- Prepare progress presentation
+
+### Week 12
 
 {: .lecture }
 **Mon, Apr 29 | Lecture**  
 Digital Democracy
 - Tech-enhanced deliberation: vTaiwan
 - Guest: Audrey Tang (unconfirmed)
+- Lessons from Taiwan's digital democracy
+- Applications to other contexts
 
 Readings
 {: .label .label-green }
@@ -249,26 +310,54 @@ Readings
 {: .lab }
 **Wed, May 1 | Lab**  
 Project Support
+- Final project refinement
+- Presentation preparation
+- Documentation review
+- Technical assistance
+
+Assignment
+{: .label .label-red }
+- Finalize project materials
+- Practice presentation
+
+### Week 13
 
 {: .lecture }
 **Mon, May 7 | Lecture**  
 Conflict Mediation
 - Tech-enhanced conflict mediation
 - Guest: Andrew Konya (unconfirmed)
+- Digital tools for conflict resolution
+- Best practices and case studies
+
+Readings
+{: .label .label-green }
+- Conflict resolution in digital spaces
+- Online mediation case studies
+- Technology and peace-building literature
 
 {: .lab }
 **Wed, May 9 | Lab**  
 Final Presentations
+- Project demonstrations
+- Peer feedback
+- Discussion of lessons learned
+- Future applications
 
 Assignment
 {: .label .label-red }
 - Complete and present final projects
 - Submit all documentation
 
+### Week 14
+
 {: .lecture }
 **Mon, May 13 | Lecture**  
 Final Class
 - Celebrations and Group Reflections
+- Course synthesis
+- Future directions
+- Community building beyond the course
 
 ### Important Dates
 
