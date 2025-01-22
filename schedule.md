@@ -11,13 +11,17 @@ Tuesdays
 > E15-359
 
 Thursdays  
-10:30 PM - 12:00 PM ET  
-E15-341
+> 10:30 PM - 12:00 PM ET  
+> E15-341
 
 
 # Section 1: Roots of Fragmentation 
 
 ## Week 1: Why Build Bridges?
+
+| Header 1          | Header 2          |
+|--------------------|-------------------|
+| Regular content    | <div class="note">This is a callout block in a table.</div> |
 
 {: .lecture }
 **Tues, Feb 4 | Lecture:** 
@@ -258,7 +262,8 @@ Explore case studies of tech-enhanced civic dialogue, including projects from CC
 > - Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link]
 
 {: .lab }
-**Thurs, Apr 24 | Lab:** Coaching through Challenges/Presentations
+**Thurs, Apr 24 | Lab:** 
+Coaching through Challenges/Presentations
 
 {: .highlight } 
 > - Continue working on your final projects 
@@ -278,7 +283,8 @@ Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its 
 > - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
-**Thurs, May 1 | Lab:** Coaching through Challenges/Presentations
+**Thurs, May 1 | Lab:** 
+Coaching through Challenges/Presentations
 
 
 {: .highlight } 
@@ -298,7 +304,8 @@ Investigate the role of technology in conflict mediation. Learn how tech-enabled
 > - to be determined
 
 {: .lab }
-**Thurs, May 9 | Lab:** Coaching through Challenges/Presentations
+**Thurs, May 9 | Lab:** 
+Coaching through Challenges/Presentations
 
 {: .highlight } 
 > - Complete and present final projects

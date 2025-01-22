@@ -211,7 +211,7 @@
   },"30": {
     "doc": "Schedule",
     "title": "Schedule",
-    "content": "Tuesdays . 10:30 AM - 12:00 PM ET E15-359 . Thursdays 10:30 PM - 12:00 PM ET E15-341 . ",
+    "content": "Tuesdays . 10:30 AM - 12:00 PM ET E15-359 . Thursdays . 10:30 PM - 12:00 PM ET E15-341 . ",
     "url": "/Spring_ccc_class/schedule.html",
     
     "relUrl": "/schedule.html"
@@ -225,7 +225,7 @@
   },"32": {
     "doc": "Schedule",
     "title": "Week 1: Why Build Bridges?",
-    "content": "Tues, Feb 4 | Lecture: Explore the details of the course, dive deeper into MIT Center for Constructive Communication’s key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation. | No readings this week | . Thurs, Feb 6 | Lab: Public Narrative . | Start Public Narrative | . | Iterate on your story of self draft | . ",
+    "content": "| Header 1 | Header 2 | . | Regular content | &lt;div class=\"note\"&gt;This is a callout block in a table.&lt;/div&gt; | . Tues, Feb 4 | Lecture: Explore the details of the course, dive deeper into MIT Center for Constructive Communication’s key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation. | No readings this week | . Thurs, Feb 6 | Lab: Public Narrative . | Start Public Narrative | . | Iterate on your story of self draft | . ",
     "url": "/Spring_ccc_class/schedule.html#week-1-why-build-bridges",
     
     "relUrl": "/schedule.html#week-1-why-build-bridges"
@@ -316,21 +316,21 @@
   },"45": {
     "doc": "Schedule",
     "title": "Week 11:  Civic Innovation: Lessons from Tech-Enhanced Dialogue",
-    "content": "Tues, Apr 22 | Lecture: Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement. | Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better. | Lafont, C. (2019). Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy, Oxford (Introduction). | Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link] | . | **Thurs, Apr 24 | Lab:** Coaching through Challenges/Presentations | . | Continue working on your final projects | . ",
+    "content": "Tues, Apr 22 | Lecture: Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement. | Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better. | Lafont, C. (2019). Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy, Oxford (Introduction). | Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link] | . Thurs, Apr 24 | Lab: Coaching through Challenges/Presentations . | Continue working on your final projects | . ",
     "url": "/Spring_ccc_class/schedule.html#week-11--civic-innovation-lessons-from-tech-enhanced-dialogue",
     
     "relUrl": "/schedule.html#week-11--civic-innovation-lessons-from-tech-enhanced-dialogue"
   },"46": {
     "doc": "Schedule",
     "title": "Week 12:  Collaborative Governance: Insights from vTaiwan",
-    "content": "Tues, Apr 29 | Lecture: Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes. Guest Lecture . | Claudia Chwalisz’s note on the need for AI-powered tech in the next democratic paradigm. | Excerpt from Plurality: The Future of Collaborative Technology and Democracy | . | **Thurs, May 1 | Lab:** Coaching through Challenges/Presentations | . | Continue working on your final projects | . ",
+    "content": "Tues, Apr 29 | Lecture: Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes. Guest Lecture . | Claudia Chwalisz’s note on the need for AI-powered tech in the next democratic paradigm. | Excerpt from Plurality: The Future of Collaborative Technology and Democracy | . Thurs, May 1 | Lab: Coaching through Challenges/Presentations . | Continue working on your final projects | . ",
     "url": "/Spring_ccc_class/schedule.html#week-12--collaborative-governance-insights-from-vtaiwan",
     
     "relUrl": "/schedule.html#week-12--collaborative-governance-insights-from-vtaiwan"
   },"47": {
     "doc": "Schedule",
     "title": "Week 13: Mediating Conflict Through Technology",
-    "content": "Tues, May 7 | Lecture: Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts. Guest Lecture . | to be determined | . | **Thurs, May 9 | Lab:** Coaching through Challenges/Presentations | . | Complete and present final projects | Submit all documentation | . ",
+    "content": "Tues, May 7 | Lecture: Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts. Guest Lecture . | to be determined | . Thurs, May 9 | Lab: Coaching through Challenges/Presentations . | Complete and present final projects | Submit all documentation | . ",
     "url": "/Spring_ccc_class/schedule.html#week-13-mediating-conflict-through-technology",
     
     "relUrl": "/schedule.html#week-13-mediating-conflict-through-technology"
