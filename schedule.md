@@ -26,8 +26,7 @@ E15-341
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
-{: .warning}
-
+{: .highlight}
 Iterate on your story of self draft
 
 ---
@@ -53,7 +52,6 @@ Iterate on your story of self draft
 - Story sharing and feedback
 
 {: .highlight }
-
 - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
 - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
 - Participate in our class Pol.is prompt
@@ -72,7 +70,6 @@ Iterate on your story of self draft
 - Platform dynamics and effects
 
 {: .note }
-
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
 > - Excerpt from Breaking the Social Prism (Chris Bail)
 > - van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
@@ -89,7 +86,6 @@ Iterate on your story of self draft
 - Power of personal narratives
 
 {: .note }
-
 > - Simmons, Ian. "On One-to-Ones"
 > - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
 > - Bruner, Jerome. Selected readings
