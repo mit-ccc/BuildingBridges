@@ -25,9 +25,9 @@ E15-341
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
-Assignment
-{: .label .label-red }
-- Iterate on your story of self draft
+{: .green }
+> **Assignment**
+> - Iterate on your story of self draft
 
 ---
 
@@ -40,22 +40,22 @@ Assignment
 - Small is beautiful
 - Atrophied local politics
 
-Readings
-{: .label .label-green }
-- Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
-- Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
-- Bowling Alone Chapter 1: Thinking about Social Change in America
+{: .blue }
+> **Readings**
+> - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
+> - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
+> - Bowling Alone Chapter 1: Thinking about Social Change in America
 
 {: .lab }
 **Thurs, Feb 13 | Lab:** Public Narrative [Forming Teams]
 - Team formation activities
 - Story sharing and feedback
 
-Assignment
-{: .label .label-red }
-- Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
-- Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
-- Participate in our class Pol.is prompt
+{: .green }
+> **Assignment**
+> - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
+> - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
+> - Participate in our class Pol.is prompt
 
 ---
 
@@ -70,12 +70,12 @@ Assignment
 - Challenges and opportunities in digital spaces
 - Platform dynamics and effects
 
-Readings
-{: .label .label-green }
-- Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
-- Excerpt from Breaking the Social Prism (Chris Bail)
-- van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
-- Roy, D. (2023). The Internet could be so good. Really. The Atlantic
+{: .blue }
+> **Readings**
+> - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
+> - Excerpt from Breaking the Social Prism (Chris Bail)
+> - van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
+> - Roy, D. (2023). The Internet could be so good. Really. The Atlantic
 
 ---
 
@@ -87,11 +87,11 @@ Readings
 - Building meaningful connections
 - Power of personal narratives
 
-Readings
-{: .label .label-green }
-- Simmons, Ian. "On One-to-Ones"
-- Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
-- Bruner, Jerome. Selected readings
+{: .blue }
+> **Readings**
+> - Simmons, Ian. "On One-to-Ones"
+> - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
+> - Bruner, Jerome. Selected readings
 
 {: .lab }
 **Thurs, Feb 27 | Lab:** Relationship Building
@@ -99,9 +99,9 @@ Readings
 - Team formation activities
 - Reflection exercises
 
-Assignment
-{: .label .label-red }
-- Hold and reflect on ~5 1:1s within the class, form your team
+{: .green }
+> **Assignment**
+> - Hold and reflect on ~5 1:1s within the class, form your team
 
 ---
 
@@ -114,12 +114,12 @@ Assignment
 - Snowflake model
 - Organizational principles
 
-Readings
-{: .label .label-green }
-- Danielle Allen Justice by Means of Democracy excerpt
-- "Small is Beautiful" EF Schumacher excerpt
-- Han, Hahrie. "Introduction"
-- Additional readings on democracy and structure
+{: .blue }
+> **Readings**
+> - Danielle Allen Justice by Means of Democracy excerpt
+> - "Small is Beautiful" EF Schumacher excerpt
+> - Han, Hahrie. "Introduction"
+> - Additional readings on democracy and structure
 
 {: .lab }
 **Thurs, Mar 6 | Lab:** Team Launch
@@ -127,10 +127,10 @@ Readings
 - Setting expectations
 - Role definition
 
-Assignment
-{: .label .label-red }
-- Finish launching your team, submit your team-launch packet
-- As a team, hold 10 1:1s with constituency members
+{: .green }
+> **Assignment**
+> - Finish launching your team, submit your team-launch packet
+> - As a team, hold 10 1:1s with constituency members
 
 ---
 
@@ -148,10 +148,10 @@ Assignment
 - Planning implementation
 - Role assignments
 
-Assignment
-{: .label .label-red }
-- Finish launching your campaign, submit campaign launch packet
-- Identify 1-2 potential leaders for kickoff
+{: .green }
+> **Assignment**
+> - Finish launching your campaign, submit campaign launch packet
+> - Identify 1-2 potential leaders for kickoff
 
 ---
 
@@ -164,13 +164,13 @@ Assignment
 - Agency setting via prompt design
 - Limitations of traditional methods
 
-Readings
-{: .label .label-green }
-- Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
-- Cramer (2007). Scrutinizing and Listening to Stories
-- Cramer (2022). "Chapter 4: The qualitative study of public opinion"
-- Mutz D. C. (2006). Benefits of hearing the other side
-- Stains, Jr., R. (2014). Repairing the breach: The power of dialogue
+{: .blue }
+> **Readings**
+> - Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
+> - Cramer (2007). Scrutinizing and Listening to Stories
+> - Cramer (2022). "Chapter 4: The qualitative study of public opinion"
+> - Mutz D. C. (2006). Benefits of hearing the other side
+> - Stains, Jr., R. (2014). Repairing the breach: The power of dialogue
 
 {: .lab }
 **Thurs, Mar 20 | Lab:** Dialogue Design
@@ -178,10 +178,10 @@ Readings
 - Recruitment strategies
 - Facilitation practice
 
-Assignment
-{: .label .label-red }
-- Finish your dialogue script, conversation facilitation timeline, and recruitment plan
-- Submit packet
+{: .green }
+> **Assignment**
+> - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
+> - Submit packet
 
 ---
 
@@ -205,10 +205,10 @@ Assignment
 - AI Sensemaking techniques
 - Practice sessions
 
-Assignment
-{: .label .label-red }
-- Hold your kickoffs! (first round of conversations at a public event)
-- Recruit 1 new facilitator or leader to help with kickoff responsibilities
+{: .green }
+> **Assignment**
+> - Hold your kickoffs! (first round of conversations at a public event)
+> - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
 ---
 
@@ -221,11 +221,11 @@ Assignment
 - Effective data visualization
 - Storytelling with data
 
-Readings
-{: .label .label-green }
-- Few, S. (2013). Data Visualization for Human Perception
-- Tufte, E. R. The Visual Display of Quantitative Information (selected chapters)
-- Additional readings on data storytelling
+{: .blue }
+> **Readings**
+> - Few, S. (2013). Data Visualization for Human Perception
+> - Tufte, E. R. The Visual Display of Quantitative Information (selected chapters)
+> - Additional readings on data storytelling
 
 {: .lab }
 **Thurs, Apr 10 | Lab:** Sensemaking Practice
@@ -234,10 +234,10 @@ Readings
 - Theme development
 - Creating visual summaries
 
-Assignment
-{: .label .label-red }
-- Create initial synthesis of your conversation data
-- Prepare preliminary visualizations
+{: .green }
+> **Assignment**
+> - Create initial synthesis of your conversation data
+> - Prepare preliminary visualizations
 
 ---
 
@@ -250,11 +250,11 @@ Assignment
 - Ethical considerations
 - Best practices for human-AI teaming
 
-Readings
-{: .label .label-green }
-- AI and Democracy readings (selected)
-- Human-AI collaboration case studies
-- Ethics of AI in social research
+{: .blue }
+> **Readings**
+> - AI and Democracy readings (selected)
+> - Human-AI collaboration case studies
+> - Ethics of AI in social research
 
 {: .lab }
 **Thurs, Apr 17 | Lab:** Sharing Workshop
@@ -263,10 +263,10 @@ Readings
 - Improving visualizations
 - Story structure development
 
-Assignment
-{: .label .label-red }
-- Incorporate AI tools into your analysis process
-- Document insights and challenges
+{: .green }
+> **Assignment**
+> - Incorporate AI tools into your analysis process
+> - Document insights and challenges
 
 ---
 
@@ -279,11 +279,11 @@ Assignment
 - Success stories and failures
 - Future directions
 
-Readings
-{: .label .label-green }
-- Selected case studies of digital democracy platforms
-- Readings on civic tech successes and failures
-- Future of democracy and technology articles
+{: .blue }
+> **Readings**
+> - Selected case studies of digital democracy platforms
+> - Readings on civic tech successes and failures
+> - Future of democracy and technology articles
 
 {: .lab }
 **Thurs, Apr 24 | Lab:** Project Support
@@ -292,10 +292,10 @@ Readings
 - Strategy refinement
 - Implementation support
 
-Assignment
-{: .label .label-red }
-- Update project documentation
-- Prepare progress presentation
+{: .green }
+> **Assignment**
+> - Update project documentation
+> - Prepare progress presentation
 
 ---
 
@@ -308,12 +308,12 @@ Assignment
 - Lessons from Taiwan's digital democracy
 - Applications to other contexts
 
-Readings
-{: .label .label-green }
-- Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
-- Lafont, C. (2019). Democracy without Shortcuts
-- Lippmann, W. (1919). The basic problem of democracy
-- Claudia Chwalisz's note on AI-powered tech in democracy
+{: .blue }
+> **Readings**
+> - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
+> - Lafont, C. (2019). Democracy without Shortcuts
+> - Lippmann, W. (1919). The basic problem of democracy
+> - Claudia Chwalisz's note on AI-powered tech in democracy
 
 {: .lab }
 **Thurs, May 1 | Lab:** Project Support
@@ -322,10 +322,10 @@ Readings
 - Documentation review
 - Technical assistance
 
-Assignment
-{: .label .label-red }
-- Finalize project materials
-- Practice presentation
+{: .green }
+> **Assignment**
+> - Finalize project materials
+> - Practice presentation
 
 ---
 
@@ -338,11 +338,11 @@ Assignment
 - Digital tools for conflict resolution
 - Best practices and case studies
 
-Readings
-{: .label .label-green }
-- Conflict resolution in digital spaces
-- Online mediation case studies
-- Technology and peace-building literature
+{: .blue }
+> **Readings**
+> - Conflict resolution in digital spaces
+> - Online mediation case studies
+> - Technology and peace-building literature
 
 {: .lab }
 **Thurs, May 9 | Lab:** Final Presentations
@@ -351,10 +351,10 @@ Readings
 - Discussion of lessons learned
 - Future applications
 
-Assignment
-{: .label .label-red }
-- Complete and present final projects
-- Submit all documentation
+{: .green }
+> **Assignment**
+> - Complete and present final projects
+> - Submit all documentation
 
 ---
 
