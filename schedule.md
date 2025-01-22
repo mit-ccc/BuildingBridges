@@ -104,10 +104,11 @@ Learn the art of relationship building through one-on-one interactions. Discuss 
 ## Week 5: Developing Leadership Skills and Showing Up
 
 {: .lecture }
-**Tues, Mar 4 | Lecture:** Structure & Organization
+**Tues, Mar 4 | Lecture:** 
+Structure & Organization
 
-{: .warning }
-> - Guest Lecture by Prof. Marshall Ganz, Harvard Kennedy School
+Guest Lecture
+{: .label .label-red } Prof. Marshall Ganz, Harvard Kennedy School
 
 
 {: .note }
