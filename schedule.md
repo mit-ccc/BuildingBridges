@@ -25,7 +25,7 @@ E15-341
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
-{: .highlight }
+{: .warning }
 **Assignment**
 Iterate on your story of self draft
 
