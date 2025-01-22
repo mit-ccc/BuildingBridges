@@ -53,15 +53,18 @@ callouts:
   lecture:
     title: Lecture
     color: blue
+    opacity: 0.2
   lab:
     title: Lab
     color: green
   highlight:
     title: Assignment
     color: yellow
+    opacity: 0.2
   note:
     title: Reading
     color: purple
+    opacity: 0.2
 
 # Enable copy code button
 enable_copy_code_button: true
