@@ -12,6 +12,7 @@ This course explores the roots of social fragmentation and equips students with 
 The course introduces and builds civic muscles such as deep listening, facilitation, and coaching, as well as broader change-making techniques like diagnosing challenges, strategizing, and taking action. Through lectures, skills-based labs, and a conversation project, students will practice designing and leading meaningful conversations, leveraging AI-assisted sensemaking, and creating impactful outputs to share with their communities. 
 
 This hands-on course prepares students to build civic muscles for engaging with the complexities of public life and driving positive social change.
+
 [Schedule](schedule){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -23,8 +24,15 @@ This hands-on course prepares students to build civic muscles for engaging with 
 - Maggie Hughes ([mhughes4@media.mit.edu](mailto:mhughes4@media.mit.edu))
 - Dimitra Dimitrakopoulou ([dimitrad@media.mit.edu](mailto:dimitrad@media.mit.edu))
 
-**Meeting Time:** Tuesdays and Thursdays  
-**Location:** E14  
+**Meeting Time and Location:**
+Tuesdays
+10:30 AM - 12:00 PM ET  
+E15-359
+
+Thursdays  
+10:30 PM - 12:00 PM ET  
+E15-341
+
 **Credit Hours:** 3-0-9
 
 
