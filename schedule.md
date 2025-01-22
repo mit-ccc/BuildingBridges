@@ -20,11 +20,10 @@ E15-341
 ## Week 1: Why Build Bridges?
 
 {: .lecture }
-**Tues, Feb 4 | Lecture:** Course overview
-- Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
+**Tues, Feb 4 | Lecture:** Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
 
 {: .note}
-- No readings this week
+> - No readings this week
 
 
 {: .lab}
@@ -34,11 +33,10 @@ E15-341
 {: .highlight}
 - Iterate on your story of self draft
 
-## Week 2
+## Week 2: Fractured Communities: Understanding Societal Challenges
 
 {: .lecture }
-**Tues, Feb 11 | Lecture:** Fractured Communities: Understanding Societal Challenges
-- Examine the roots of societal issues, such as weakened institutions, declining trust in media, and toxic social media. Discuss the role of civic associations and the importance of local politics in fostering democracy.
+**Tues, Feb 11 | Lecture:** Examine the roots of societal issues, such as weakened institutions, declining trust in media, and toxic social media. Discuss the role of civic associations and the importance of local politics in fostering democracy.
 
 {: .note }
 > - Roy, D. (2023, October 17). The Internet could be so good. Really. The Atlantic [link]
@@ -58,14 +56,13 @@ E15-341
 > - Participate in our class Pol.is prompt
 
 
-## Week 3
+## Week 3: (Social) Media’s Impact on Fragmentation in Public Spaces
 
 {: .note-red }
 **Tues, Feb 18:** No Class - Presidents Day. Lecture will be held on Thurs, Feb 20.
 
 {: .lecture }
-**Thurs, Feb 20 | Lecture:** (Social) Media’s Impact on Fragmentation in Public Spaces
-Delve into the impact of traditional and social media on public discourse. Discuss the transformation of public spaces and the need for improved communication platforms.
+**Thurs, Feb 20 | Lecture:** Delve into the impact of traditional and social media on public discourse. Discuss the transformation of public spaces and the need for improved communication platforms.
 
 {: .note }
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
@@ -76,13 +73,11 @@ Delve into the impact of traditional and social media on public discourse. Discu
 
 # Section 2: Organizing
 
-## Week 4
+## Week 4: Building Connections: Relationships as the Foundation of Community
+
 
 {: .lecture }
-**Tues, Feb 25 | Lecture:** Relationships as the Foundation of Community
-Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
-Readings:
-
+**Tues, Feb 25 | Lecture:** Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
 
 {: .note }
 > - Simmons, Ian. “On One-to-Ones,” in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
@@ -102,20 +97,21 @@ Readings:
 > - Hold and reflect on ~5 1:1s within the class, form your team
 
 
-## Week 5
+## Week 5: Developing Leadership Skills and Showing Up
 
 {: .lecture }
 **Tues, Mar 4 | Lecture:** Structure & Organization
-- Democracy in teams
-- Leadership development
-- Snowflake model
-- Organizational principles
+{: .warning }
+> - Guest Lecture by Prof. Marshall Ganz, Harvard Kennedy School
+
 
 {: .note }
 > - Danielle Allen Justice by Means of Democracy excerpt
-> - "Small is Beautiful" EF Schumacher excerpt
-> - Han, Hahrie. "Introduction"
-> - Additional readings on democracy and structure
+> - Han, Hahrie. “Introduction”, in How Organizations Develop Activists, (2014), (pp. 1-28).
+> - Mutz D. C. (2006). Benefits of hearing the other side. In Hearing the other side: deliberative versus participatory democracy. Cambridge: Cambridge University Press, pp. 57-87. 
+> - The Tyranny of Structurelessness by Jo Freeman
+> - Hackman, Richard. “Designing Work for Individuals and for Groups”, adapted from J.R. Hackman, Work Design in J.R. Hackman & J.L. Suttle (Eds.) Improving Life at work: Behavioral science approaches to organizational change. Santa Monica: Goodyear Publishing Company, (1977). (pp. 242-255).
+
 
 {: .lab }
 **Thurs, Mar 6 | Lab:** Team Launch
@@ -125,38 +121,37 @@ Readings:
 
 {: .highlight } 
 > - Finish launching your team, submit your team-launch packet
-> - As a team, hold 10 1:1s with constituency members
+> - As a team, hold 10 1:1s with people you believe to be in your constituency. Document them with structured notes, be ready to bring the findings next week.
+
 
 ---
 
-## Week 6
+## Week 6: Turning Ideas into Action: Strategizing for Conversation Campaigns
 
 {: .lecture }
-**Tues, Mar 12 | Lecture:** Campaign Design
-- Designing a Campaign (Strategy, Action)
-- Leadership development principles
-- Strategic planning
+**Tues, Mar 12 | Lecture:** Develop strategies, tactics, and timelines for your conversation campaign. Explore methods for engaging constituencies and identifying leaders to support your initiatives.
 
 {: .lab }
-**Thurs, Mar 14 | Lab:** Conversation Campaign
+**Thurs, Mar 14 | Lab:** Designing your Conversation Campaign - Strategy, Tactics, Timeline
 - Designing your conversation campaign
 - Planning implementation
-- Role assignments
+- Roles
 
 {: .highlight } 
-> - Finish launching your campaign, submit campaign launch packet
-> - Identify 1-2 potential leaders for kickoff
+> - Finish launching your campaign, submit your campaign launch packet. 
+> - Share your campaign idea to members of your constituency. Identify 1-2 potential leaders, and see if they can help with your kickoff
+> - Optional: If your team wants to use Pol.is, attend office hours or set up a time with guest TA
+
 
 ---
 
-## Week 7
+# Section 3: Constructive Communication
+
+## Week 7: Designing Dialogue to Listen and Create Bridges
 
 {: .lecture }
-**Tues, Mar 18 | Lecture:** Dialogue & Public Opinion
-- Conversation / Dialogue / Listening
-- Public opinion vs. public thought
-- Agency setting via prompt design
-- Limitations of traditional methods
+**Tues, Mar 18 | Lecture:** Learn how to design and facilitate meaningful conversations. Understand the differences between focus groups, public opinion polls, and public thought. Discuss strategies for gathering input that prioritizes dialogue, listening, and shared understanding.
+
 
 {: .note }
 > - Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
@@ -182,20 +177,18 @@ Readings:
 
 ---
 
-## Week 8
+## Week 8: Sensemaking to Reveal and Interpret Patterns Across Conversations
 
 {: .lecture }
-**Tues, Apr 1 | Lecture:** Sensemaking
-- Patterns across conversations
-- Analytics vs. Sensemaking
-- Kathy Cramer's method
-- Qualitative research methods
+**Tues, Apr 1 | Lecture:** Explore the intersection of analytics and sensemaking. Learn sensemaking best practices and explore how to integrate AI into the sensemaking process.
+
+{: .note } 
+> - Forthcoming
 
 {: .lab }
-**Thurs, Apr 3 | Lab:** Leadership & AI
-- Kickoffs and Building Leadership
-- AI Sensemaking techniques
-- Practice sessions
+**Thurs, Apr 3 | Lab:** Kickoffs and Building Leadership Capacity
+- Plan your kickoffs
+- Build leadership capacity
 
 {: .highlight } 
 > - Hold your kickoffs! (first round of conversations at a public event)
@@ -203,14 +196,10 @@ Readings:
 
 ---
 
-## Week 9
+## Week 9: Storytelling and Sharing Out
 
 {: .lecture }
-**Tues, Apr 8 | Lecture:** Output Creation
-- Creating and sharing outputs from sensemaking
-- Synthesizing insights from conversations
-- Effective data visualization
-- Storytelling with data
+**Tues, Apr 8 | Lecture:**  Understand the principles of effective storytelling to engage diverse audiences. Learn how to reflect, bridge, and influence through trust, emotion, and evidence-based narratives.
 
 {: .note }
 > - Few, S. (2013). Data Visualization for Human Perception
@@ -225,113 +214,85 @@ Readings:
 - Creating visual summaries
 
 {: .highlight } 
-> - Create initial synthesis of your conversation data
-> - Prepare preliminary visualizations
+> - Finish codebook development
+> - Finish highlighting and coding your conversations
+
 
 ---
 
-## Week 10
+## Week 10: Technology and Democracy: Defining Roles for AI and Humans
 
 {: .lecture }
-**Tues, Apr 15 | Lecture:** Human-AI Collaboration
-- Division of labor between people and AI
-- AI-assisted qualitative analysis
-- Ethical considerations
-- Best practices for human-AI teaming
+**Tues, Apr 15 | Lecture:** Discuss the potential and pitfalls of AI in democratic processes. Examine how AI and human agency can complement each other in fostering trust and participation.
+
 
 {: .note }
 > - AI and Democracy readings (selected)
-> - Human-AI collaboration case studies
-> - Ethics of AI in social research
 
 {: .lab }
 **Thurs, Apr 17 | Lab:** Sharing Workshop
-- Peer feedback sessions
-- Refining presentations
-- Improving visualizations
-- Story structure development
+- Develop a plan for sharing these voices, work on that plan
 
 {: .highlight } 
-> - Incorporate AI tools into your analysis process
-> - Document insights and challenges
+
 
 ---
 
-## Week 11
+# Section 4: Case Studies of Tech-Enhanced Democratic Discourse
+
+## Week 11:  Civic Innovation: Lessons from Tech-Enhanced Dialogue
 
 {: .lecture }
-**Tues, Apr 22 | Lecture:** Tech-Enhanced Dialogue
-- Case studies in tech-enhanced listening/bridging/deliberation
-- Platform design principles
-- Success stories and failures
-- Future directions
+**Tues, Apr 22 | Lecture:** Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement.
 
 {: .note }
-> - Selected case studies of digital democracy platforms
-> - Readings on civic tech successes and failures
-> - Future of democracy and technology articles
+> - Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better.
+> - Lafont, C. (2019). Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy, Oxford (Introduction).
+> - Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link]
 
 {: .lab }
-**Thurs, Apr 24 | Lab:** Project Support
-- Coaching through Challenges
-- Technical troubleshooting
-- Strategy refinement
-- Implementation support
+**Thurs, Apr 24 | Lab:** Coaching through Challenges/Presentations
 
 {: .highlight } 
-> - Update project documentation
-> - Prepare progress presentation
+> - Continue working on your final projects 
 
 ---
 
-## Week 12
+## Week 12:  Collaborative Governance: Insights from vTaiwan 
 
 {: .lecture }
-**Tues, Apr 29 | Lecture:** Digital Democracy
-- Tech-enhanced deliberation: vTaiwan
-- Guest: Audrey Tang (unconfirmed)
-- Lessons from Taiwan's digital democracy
-- Applications to other contexts
+**Tues, Apr 29 | Lecture:** Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes.
+
+{: .warning }
+> - Guest Lecturer 
+
 
 {: .note }
-> - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
-> - Lafont, C. (2019). Democracy without Shortcuts
-> - Lippmann, W. (1919). The basic problem of democracy
-> - Claudia Chwalisz's note on AI-powered tech in democracy
+> - Claudia Chwalisz’s note on the need for AI-powered tech in the next democratic paradigm.
+> - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
-**Thurs, May 1 | Lab:** Project Support
-- Final project refinement
-- Presentation preparation
-- Documentation review
-- Technical assistance
+**Thurs, May 1 | Lab:** Coaching through Challenges/Presentations
+
 
 {: .highlight } 
-> - Finalize project materials
-> - Practice presentation
+> - Continue working on your final projects
 
 ---
 
-## Week 13
+## Week 13: Mediating Conflict Through Technology 
 
 {: .lecture }
-**Tues, May 7 | Lecture:** Conflict Mediation
-- Tech-enhanced conflict mediation
-- Guest: Andrew Konya (unconfirmed)
-- Digital tools for conflict resolution
-- Best practices and case studies
+**Tues, May 7 | Lecture:** Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts.
+{: .warning }
+> - Guest Lecturer 
+
 
 {: .note }
-> - Conflict resolution in digital spaces
-> - Online mediation case studies
-> - Technology and peace-building literature
+> - to be determined
 
 {: .lab }
-**Thurs, May 9 | Lab:** Final Presentations
-- Project demonstrations
-- Peer feedback
-- Discussion of lessons learned
-- Future applications
+**Thurs, May 9 | Lab:** Coaching through Challenges/Presentations
 
 {: .highlight } 
 > - Complete and present final projects
@@ -339,14 +300,11 @@ Readings:
 
 ---
 
-## Week 14
+## Week 14: Celebrations and Group Reflections
 
 {: .lecture }
-**Tues, May 13 | Lecture:** Final Class
-- Celebrations and Group Reflections
-- Course synthesis
-- Future directions
-- Community building beyond the course
+**Tues, May 13 | Lecture**
+
 
 ---
 
