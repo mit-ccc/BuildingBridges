@@ -72,3 +72,11 @@ The goal of this course project is to develop and run a conversation-based initi
 - A new community where you seek to establish yourself as a member (e.g., a group of freshmen in Massie Hall striving for deeper engagement at MIT)
 
 The scope emphasizes accessibility, relevance, and the creation of a brave space for participants to engage openly and honestly. 
+
+
+## Acknowledgements
+Materials for this course are adapted from the following sources:
+
+- [Organizing: People, Power, Change](https://www.hks.harvard.edu/courses/organizing-people-power-change) taught by Prof. Marshall Ganz
+- [MAS.S69 Constructive Communication Systems: Facilitated Dialogue, Technology, and Design](https://courses.media.mit.edu/2021spring/mass69/index.html) taught by Prof. Deb Roy, Prof. Dimitra Dimitrakopoulou, and Prof. Ceasar McDowell
+- [MIT MAS.S62 Depolarization by Design](https://learning-modules.mit.edu/class/index.html?uuid=/course/MAS/fa17/MAS.S62#info) taught by Prof. Deb Roy, Prof. Nabeel Gillani

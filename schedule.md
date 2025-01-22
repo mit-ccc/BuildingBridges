@@ -19,10 +19,6 @@ Thursdays
 
 ## Week 1: Why Build Bridges?
 
-| Header 1          | Header 2          |
-|--------------------|-------------------|
-| Regular content    | {: .note } This is a callout block in a table. |
-
 {: .lecture }
 **Tues, Feb 4 | Lecture:** 
 Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
