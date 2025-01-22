@@ -7,14 +7,9 @@ permalink: /
 ---
 
 # Building Bridges: Tools for Social Cohesion
-{: .fs-9 }
-
-Welcome to Building Bridges, a course that explores how we can use technology to enhance constructive communication and build social cohesion in an increasingly fragmented world.
-
 {: .fs-6 .fw-300 }
-Through this course, we'll explore the roots of social fragmentation, learn organizing techniques, and develop practical skills for fostering constructive dialogue. We'll combine traditional community organizing methods with cutting-edge technology to create meaningful connections and understanding across divides.
+This course explores the roots of social fragmentation and equips students with tools and strategies to foster social cohesion and constructive communication within groups. By blending theory and practice, students will learn how to analyze challenges in public and personal spheres, design dialogue processes, and build teams structured to organize community conversations. The course introduces and builds civic muscles such as deep listening, facilitation, and coaching, as well as broader change-making techniques like diagnosing challenges, strategizing, and taking action. Through lectures, skills-based labs, and a conversation project, students will practice designing and leading meaningful conversations, leveraging AI-assisted sensemaking, and creating impactful outputs to share with their communities. This hands-on course prepares students to build civic muscles for engaging with the complexities of public life and driving positive social change.
 
-[Syllabus](syllabus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Schedule](schedule){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 }
 
 ---
