@@ -314,20 +314,3 @@ Coaching through Challenges/Presentations
 {: .lecture }
 **Tues, May 13 | Lecture:**
 Celebrations and Group Reflections
-
-
----
-
-### Important Dates
-
-{: .red }
-> **Key Assignments**
-> - **Feb 6:** Story of self draft due
-> - **Feb 13:** Team formation and Pol.is participation
-> - **Mar 6:** Team launch packet due
-> - **Mar 14:** Campaign launch packet due
-> - **Mar 20:** Dialogue script and recruitment plan due
-> - **Mar 24:** Midterms due
-> - **Apr 3:** First kickoff event
-> - **May 9:** Final presentations
-> - **May 13:** Final documentation due
