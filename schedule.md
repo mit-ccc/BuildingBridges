@@ -20,7 +20,8 @@ E15-341
 ## Week 1: Why Build Bridges?
 
 {: .lecture }
-**Tues, Feb 4 | Lecture:** Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
+**Tues, Feb 4 | Lecture:** 
+Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
 
 {: .note}
 > - No readings this week
@@ -36,7 +37,8 @@ E15-341
 ## Week 2: Fractured Communities: Understanding Societal Challenges
 
 {: .lecture }
-**Tues, Feb 11 | Lecture:** Examine the roots of societal issues, such as weakened institutions, declining trust in media, and toxic social media. Discuss the role of civic associations and the importance of local politics in fostering democracy.
+**Tues, Feb 11 | Lecture:** 
+Examine the roots of societal issues, such as weakened institutions, declining trust in media, and toxic social media. Discuss the role of civic associations and the importance of local politics in fostering democracy.
 
 {: .note }
 > - Roy, D. (2023, October 17). The Internet could be so good. Really. The Atlantic [link]
@@ -62,7 +64,8 @@ E15-341
 **Tues, Feb 18:** No Class - Presidents Day. Lecture will be held on Thurs, Feb 20.
 
 {: .lecture }
-**Thurs, Feb 20 | Lecture:** Delve into the impact of traditional and social media on public discourse. Discuss the transformation of public spaces and the need for improved communication platforms.
+**Thurs, Feb 20 | Lecture:** 
+Delve into the impact of traditional and social media on public discourse. Discuss the transformation of public spaces and the need for improved communication platforms.
 
 {: .note }
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
