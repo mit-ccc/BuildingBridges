@@ -26,15 +26,16 @@ This hands-on course prepares students to build civic muscles for engaging with 
 - Danny Kessler ([kessler1@media.mit.edu](mailto:kessler1@media.mit.edu))
 
 **Meeting Time and Location:**
+
+
 Tuesdays
+> 10:30 AM - 12:00 PM ET  
+> E15-359
 
-- 10:30 AM - 12:00 PM ET  
-- E15-359
+Thursdays  
+> 10:30 PM - 12:00 PM ET  
+> E15-341
 
-Thursdays 
-
-- 10:30 PM - 12:00 PM ET  
-- E15-341
 
 **Credit Hours:** 3-0-9
 
