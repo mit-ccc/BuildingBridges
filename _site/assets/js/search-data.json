@@ -121,115 +121,192 @@
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
-    "url": "/Spring_ccc_class/resources.html",
+    "url": "/Spring_ccc_class/readings.html",
     
-    "relUrl": "/resources.html"
+    "relUrl": "/readings.html"
   },"18": {
     "doc": "Resources",
     "title": "Table of contents",
     "content": ". Content coming soon… . ",
+    "url": "/Spring_ccc_class/readings.html#table-of-contents",
+    
+    "relUrl": "/readings.html#table-of-contents"
+  },"19": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "/Spring_ccc_class/resources.html",
+    
+    "relUrl": "/resources.html"
+  },"20": {
+    "doc": "Resources",
+    "title": "Table of contents",
+    "content": ". | Resources . | Cortico Platform | AI Sensemaking | Coalesce | Pol.is | Conversation Mapping Tool | Facilimate | Relationship Mapping | Visualization Tools . | Sensemap | Visualization Notebook | . | Basic Documentation . | Recommended Tools | . | . | . ",
     "url": "/Spring_ccc_class/resources.html#table-of-contents",
     
     "relUrl": "/resources.html#table-of-contents"
-  },"19": {
+  },"21": {
+    "doc": "Resources",
+    "title": "Cortico Platform",
+    "content": "Coming Soon . A platform for facilitating and recording meaningful conversations across communities. ",
+    "url": "/Spring_ccc_class/resources.html#cortico-platform",
+    
+    "relUrl": "/resources.html#cortico-platform"
+  },"22": {
+    "doc": "Resources",
+    "title": "AI Sensemaking",
+    "content": "Coming Soon . Tools and techniques for using AI to analyze and derive insights from conversation data. ",
+    "url": "/Spring_ccc_class/resources.html#ai-sensemaking",
+    
+    "relUrl": "/resources.html#ai-sensemaking"
+  },"23": {
+    "doc": "Resources",
+    "title": "Coalesce",
+    "content": "Coming Soon . A collaborative platform for synthesizing insights from multiple conversations and sources. ",
+    "url": "/Spring_ccc_class/resources.html#coalesce",
+    
+    "relUrl": "/resources.html#coalesce"
+  },"24": {
+    "doc": "Resources",
+    "title": "Pol.is",
+    "content": "Coming Soon . An AI-powered platform for gathering and visualizing public opinion at scale. ",
+    "url": "/Spring_ccc_class/resources.html#polis",
+    
+    "relUrl": "/resources.html#polis"
+  },"25": {
+    "doc": "Resources",
+    "title": "Conversation Mapping Tool",
+    "content": "Beta . A prototype tool for mapping and analyzing conversation patterns and themes. Work with the prototyping team to access and provide feedback. ",
+    "url": "/Spring_ccc_class/resources.html#conversation-mapping-tool",
+    
+    "relUrl": "/resources.html#conversation-mapping-tool"
+  },"26": {
+    "doc": "Resources",
+    "title": "Facilimate",
+    "content": "Coming Soon . A tool to assist in planning and facilitating effective group discussions and dialogues. ",
+    "url": "/Spring_ccc_class/resources.html#facilimate",
+    
+    "relUrl": "/resources.html#facilimate"
+  },"27": {
+    "doc": "Resources",
+    "title": "Relationship Mapping",
+    "content": "Coming Soon . Tools and templates for mapping organizational relationships and power structures. ",
+    "url": "/Spring_ccc_class/resources.html#relationship-mapping",
+    
+    "relUrl": "/resources.html#relationship-mapping"
+  },"28": {
+    "doc": "Resources",
+    "title": "Visualization Tools",
+    "content": "Coming Soon . Sensemap . A tool for creating visual representations of complex information and relationships. Visualization Notebook . Templates and guidelines for creating effective data visualizations. ",
+    "url": "/Spring_ccc_class/resources.html#visualization-tools",
+    
+    "relUrl": "/resources.html#visualization-tools"
+  },"29": {
+    "doc": "Resources",
+    "title": "Basic Documentation",
+    "content": "Available Now . At minimum, you should: . | Record your conversations (with permission) | Take detailed notes | Document key insights and patterns | Track relationships and connections | Maintain a shared team documentation space | . Recommended Tools . | Google Docs/Drive for collaborative note-taking | Miro/Mural for visual documentation | Voice recording apps (with participant consent) | Photography/video (with participant consent) | . ",
+    "url": "/Spring_ccc_class/resources.html#basic-documentation",
+    
+    "relUrl": "/resources.html#basic-documentation"
+  },"30": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": "Tuesdays 10:30 AM - 12:00 PM ET E15-359 . Thursdays 10:30 PM - 12:00 PM ET E15-341 . ",
     "url": "/Spring_ccc_class/schedule.html",
     
     "relUrl": "/schedule.html"
-  },"20": {
+  },"31": {
     "doc": "Schedule",
     "title": "Week 1",
     "content": "Tues, Feb 4 | Lecture: Course overview . | Zoom out on factors (economic, social, technological, environmental, etc) | . Thurs, Feb 6 | Lab: Public Narrative . | Scoping and eliciting interest/motivation from the students | Start Public Narrative | . Iterate on your story of self draft . ",
     "url": "/Spring_ccc_class/schedule.html#week-1",
     
     "relUrl": "/schedule.html#week-1"
-  },"21": {
+  },"32": {
     "doc": "Schedule",
     "title": "Week 2",
     "content": "Tues, Feb 11 | Lecture: Social Capital &amp; Democracy . | Civic associations (schools for democracy) | Social capital (bridging, bonding) | Small is beautiful | Atrophied local politics | . | Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5 | Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides | Bowling Alone Chapter 1: Thinking about Social Change in America | . Thurs, Feb 13 | Lab: Public Narrative [Forming Teams] . | Team formation activities | Story sharing and feedback | . | Sign up for a facilitated dialogue hosted by [CCC member] with your classmates | Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class | Participate in our class Pol.is prompt | . ",
     "url": "/Spring_ccc_class/schedule.html#week-2",
     
     "relUrl": "/schedule.html#week-2"
-  },"22": {
+  },"33": {
     "doc": "Schedule",
     "title": "Week 3",
     "content": "Tues, Feb 18: No Class - Presidents Day . Thurs, Feb 20 | Lecture: Media and Social Media . | Impact of social media on public discourse | Challenges and opportunities in digital spaces | Platform dynamics and effects | . | Tufekci, Zeynep. “Preface” in Twitter and Tear Gas (2017) | Excerpt from Breaking the Social Prism (Chris Bail) | van Dijck, J., &amp; Poell, T. (2015). Social media and the transformation of public space | Roy, D. (2023). The Internet could be so good. Really. The Atlantic | . ",
     "url": "/Spring_ccc_class/schedule.html#week-3",
     
     "relUrl": "/schedule.html#week-3"
-  },"23": {
+  },"34": {
     "doc": "Schedule",
     "title": "Week 4",
     "content": "Tues, Feb 25 | Lecture: Relationships . | Understanding relationship-based organizing | Building meaningful connections | Power of personal narratives | . | Simmons, Ian. “On One-to-Ones” | Nussbaum, Martha. “Chapter 1: Emotions and Judgments of Value” | Bruner, Jerome. Selected readings | . Thurs, Feb 27 | Lab: Relationship Building . | Practice 1:1 conversations | Team formation activities | Reflection exercises | . | Hold and reflect on ~5 1:1s within the class, form your team | . ",
     "url": "/Spring_ccc_class/schedule.html#week-4",
     
     "relUrl": "/schedule.html#week-4"
-  },"24": {
+  },"35": {
     "doc": "Schedule",
     "title": "Week 5",
     "content": "Tues, Mar 4 | Lecture: Structure &amp; Organization . | Democracy in teams | Leadership development | Snowflake model | Organizational principles | . | Danielle Allen Justice by Means of Democracy excerpt | “Small is Beautiful” EF Schumacher excerpt | Han, Hahrie. “Introduction” | Additional readings on democracy and structure | . Thurs, Mar 6 | Lab: Team Launch . | Establishing team dynamics | Setting expectations | Role definition | . | Finish launching your team, submit your team-launch packet | As a team, hold 10 1:1s with constituency members | . ",
     "url": "/Spring_ccc_class/schedule.html#week-5",
     
     "relUrl": "/schedule.html#week-5"
-  },"25": {
+  },"36": {
     "doc": "Schedule",
     "title": "Week 6",
     "content": "Tues, Mar 12 | Lecture: Campaign Design . | Designing a Campaign (Strategy, Action) | Leadership development principles | Strategic planning | . Thurs, Mar 14 | Lab: Conversation Campaign . | Designing your conversation campaign | Planning implementation | Role assignments | . | Finish launching your campaign, submit campaign launch packet | Identify 1-2 potential leaders for kickoff | . ",
     "url": "/Spring_ccc_class/schedule.html#week-6",
     
     "relUrl": "/schedule.html#week-6"
-  },"26": {
+  },"37": {
     "doc": "Schedule",
     "title": "Week 7",
     "content": "Tues, Mar 18 | Lecture: Dialogue &amp; Public Opinion . | Conversation / Dialogue / Listening | Public opinion vs. public thought | Agency setting via prompt design | Limitations of traditional methods | . | Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography | Cramer (2007). Scrutinizing and Listening to Stories | Cramer (2022). “Chapter 4: The qualitative study of public opinion” | Mutz D. C. (2006). Benefits of hearing the other side | Stains, Jr., R. (2014). Repairing the breach: The power of dialogue | . Thurs, Mar 20 | Lab: Dialogue Design . | Designing dialogue processes | Recruitment strategies | Facilitation practice | . | Finish your dialogue script, conversation facilitation timeline, and recruitment plan | Submit packet | . Spring Break: March 24 - March 31 . ",
     "url": "/Spring_ccc_class/schedule.html#week-7",
     
     "relUrl": "/schedule.html#week-7"
-  },"27": {
+  },"38": {
     "doc": "Schedule",
     "title": "Week 8",
     "content": "Tues, Apr 1 | Lecture: Sensemaking . | Patterns across conversations | Analytics vs. Sensemaking | Kathy Cramer’s method | Qualitative research methods | . Thurs, Apr 3 | Lab: Leadership &amp; AI . | Kickoffs and Building Leadership | AI Sensemaking techniques | Practice sessions | . | Hold your kickoffs! (first round of conversations at a public event) | Recruit 1 new facilitator or leader to help with kickoff responsibilities | . ",
     "url": "/Spring_ccc_class/schedule.html#week-8",
     
     "relUrl": "/schedule.html#week-8"
-  },"28": {
+  },"39": {
     "doc": "Schedule",
     "title": "Week 9",
     "content": "Tues, Apr 8 | Lecture: Output Creation . | Creating and sharing outputs from sensemaking | Synthesizing insights from conversations | Effective data visualization | Storytelling with data | . | Few, S. (2013). Data Visualization for Human Perception | Tufte, E. R. The Visual Display of Quantitative Information (selected chapters) | Additional readings on data storytelling | . Thurs, Apr 10 | Lab: Sensemaking Practice . | Working with conversation data | Pattern identification | Theme development | Creating visual summaries | . | Create initial synthesis of your conversation data | Prepare preliminary visualizations | . ",
     "url": "/Spring_ccc_class/schedule.html#week-9",
     
     "relUrl": "/schedule.html#week-9"
-  },"29": {
+  },"40": {
     "doc": "Schedule",
     "title": "Week 10",
     "content": "Tues, Apr 15 | Lecture: Human-AI Collaboration . | Division of labor between people and AI | AI-assisted qualitative analysis | Ethical considerations | Best practices for human-AI teaming | . | AI and Democracy readings (selected) | Human-AI collaboration case studies | Ethics of AI in social research | . Thurs, Apr 17 | Lab: Sharing Workshop . | Peer feedback sessions | Refining presentations | Improving visualizations | Story structure development | . | Incorporate AI tools into your analysis process | Document insights and challenges | . ",
     "url": "/Spring_ccc_class/schedule.html#week-10",
     
     "relUrl": "/schedule.html#week-10"
-  },"30": {
+  },"41": {
     "doc": "Schedule",
     "title": "Week 11",
     "content": "Tues, Apr 22 | Lecture: Tech-Enhanced Dialogue . | Case studies in tech-enhanced listening/bridging/deliberation | Platform design principles | Success stories and failures | Future directions | . | Selected case studies of digital democracy platforms | Readings on civic tech successes and failures | Future of democracy and technology articles | . Thurs, Apr 24 | Lab: Project Support . | Coaching through Challenges | Technical troubleshooting | Strategy refinement | Implementation support | . | Update project documentation | Prepare progress presentation | . ",
     "url": "/Spring_ccc_class/schedule.html#week-11",
     
     "relUrl": "/schedule.html#week-11"
-  },"31": {
+  },"42": {
     "doc": "Schedule",
     "title": "Week 12",
     "content": "Tues, Apr 29 | Lecture: Digital Democracy . | Tech-enhanced deliberation: vTaiwan | Guest: Audrey Tang (unconfirmed) | Lessons from Taiwan’s digital democracy | Applications to other contexts | . | Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better | Lafont, C. (2019). Democracy without Shortcuts | Lippmann, W. (1919). The basic problem of democracy | Claudia Chwalisz’s note on AI-powered tech in democracy | . Thurs, May 1 | Lab: Project Support . | Final project refinement | Presentation preparation | Documentation review | Technical assistance | . | Finalize project materials | Practice presentation | . ",
     "url": "/Spring_ccc_class/schedule.html#week-12",
     
     "relUrl": "/schedule.html#week-12"
-  },"32": {
+  },"43": {
     "doc": "Schedule",
     "title": "Week 13",
     "content": "Tues, May 7 | Lecture: Conflict Mediation . | Tech-enhanced conflict mediation | Guest: Andrew Konya (unconfirmed) | Digital tools for conflict resolution | Best practices and case studies | . | Conflict resolution in digital spaces | Online mediation case studies | Technology and peace-building literature | . Thurs, May 9 | Lab: Final Presentations . | Project demonstrations | Peer feedback | Discussion of lessons learned | Future applications | . | Complete and present final projects | Submit all documentation | . ",
     "url": "/Spring_ccc_class/schedule.html#week-13",
     
     "relUrl": "/schedule.html#week-13"
-  },"33": {
+  },"44": {
     "doc": "Schedule",
     "title": "Week 14",
     "content": "Tues, May 13 | Lecture: Final Class . | Celebrations and Group Reflections | Course synthesis | Future directions | Community building beyond the course | . Important Dates . Key Assignments . | Feb 6: Story of self draft due | Feb 13: Team formation and Pol.is participation | Mar 6: Team launch packet due | Mar 14: Campaign launch packet due | Mar 20: Dialogue script and recruitment plan due | Mar 24: Midterms due | Apr 3: First kickoff event | May 9: Final presentations | May 13: Final documentation due | . ",
