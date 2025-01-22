@@ -23,6 +23,7 @@ This hands-on course prepares students to build civic muscles for engaging with 
 - Deb Roy ([dkroy@media.mit.edu](mailto:dkroy@media.mit.edu))
 - Maggie Hughes ([mhughes4@media.mit.edu](mailto:mhughes4@media.mit.edu))
 - Dimitra Dimitrakopoulou ([dimitrad@media.mit.edu](mailto:dimitrad@media.mit.edu))
+- Danny Kessler ([kessler1@media.mit.edu](mailto:kessler1@media.mit.edu))
 
 **Meeting Time and Location:**
 Tuesdays
