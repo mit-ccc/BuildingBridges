@@ -23,7 +23,7 @@ E15-341
 **Tues, Feb 4 | Lecture:** 
 Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
 
-{: .note}
+<span class="label label-green"> readings </span>
 > - No readings this week
 
 
@@ -31,8 +31,9 @@ Explore the details of the course, dive deeper into MIT Center for Constructive 
 **Thurs, Feb 6 | Lab:** Public Narrative
 - Start Public Narrative
 
-{: .highlight}
-> - Iterate on your story of self draft
+
+<span class="label label-yellow"> Assignment </span>
+> - Story of self draft due
 
 ## Week 2: Fractured Communities: Understanding Societal Challenges
 
