@@ -14,92 +14,93 @@ Thursdays
 10:30 PM - 12:00 PM ET  
 E15-341
 
-## Week 1
+---
+# Section 1: Roots of Fragmentation 
+
+## Week 1: Why Build Bridges?
 
 {: .lecture }
 **Tues, Feb 4 | Lecture:** Course overview
-- Zoom out on factors (economic, social, technological, environmental, etc)
+- Explore the details of the course, dive deeper into MIT Center for Constructive Communication's key projects, and discuss the macro factors—economic, social, technological—that contribute to social fragmentation.
+
+{: .note}
+- No readings this week
 
 
 {: .lab}
 **Thurs, Feb 6 | Lab:** Public Narrative
-- Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
 {: .highlight}
 - Iterate on your story of self draft
 
----
-
 ## Week 2
 
 {: .lecture }
-**Tues, Feb 11 | Lecture:** Social Capital & Democracy
-- Civic associations (schools for democracy)
-- Social capital (bridging, bonding)
-- Small is beautiful
-- Atrophied local politics
+**Tues, Feb 11 | Lecture:** Fractured Communities: Understanding Societal Challenges
+- Examine the roots of societal issues, such as weakened institutions, declining trust in media, and toxic social media. Discuss the role of civic associations and the importance of local politics in fostering democracy.
 
 {: .note }
-
+> - Roy, D. (2023, October 17). The Internet could be so good. Really. The Atlantic [link]
 > - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
 > - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
 > - Bowling Alone Chapter 1: Thinking about Social Change in America
 
 {: .lab }
 **Thurs, Feb 13 | Lab:** Public Narrative [Forming Teams]
-- Team formation activities
-- Story sharing and feedback
+- Sign up for a facilitated dialogue hosted by a CCC member with your classmates. 
+- Participate in our class Pol.is prompt 
+
 
 {: .highlight }
 > - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
 > - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
 > - Participate in our class Pol.is prompt
 
----
 
 ## Week 3
 
 {: .note-red }
-**Tues, Feb 18:** No Class - Presidents Day
+**Tues, Feb 18:** No Class - Presidents Day. Lecture will be held on Thurs, Feb 20.
 
 {: .lecture }
-**Thurs, Feb 20 | Lecture:** Media and Social Media
-- Impact of social media on public discourse
-- Challenges and opportunities in digital spaces
-- Platform dynamics and effects
+**Thurs, Feb 20 | Lecture:** (Social) Media’s Impact on Fragmentation in Public Spaces
+Delve into the impact of traditional and social media on public discourse. Discuss the transformation of public spaces and the need for improved communication platforms.
 
 {: .note }
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
 > - Excerpt from Breaking the Social Prism (Chris Bail)
 > - van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
-> - Roy, D. (2023). The Internet could be so good. Really. The Atlantic
 
 ---
+
+# Section 2: Organizing
 
 ## Week 4
 
 {: .lecture }
-**Tues, Feb 25 | Lecture:** Relationships
-- Understanding relationship-based organizing
-- Building meaningful connections
-- Power of personal narratives
+**Tues, Feb 25 | Lecture:** Relationships as the Foundation of Community
+Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
+Readings:
+
 
 {: .note }
-> - Simmons, Ian. "On One-to-Ones"
-> - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
-> - Bruner, Jerome. Selected readings
+> - Simmons, Ian. “On One-to-Ones,” in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
+> - Nussbaum, Martha. “Chapter 1: Emotions and Judgments of Value”, in Upheavals of Thought: The Intelligence of Emotions, (2001), (pp. 19-33). 
+> - Bruner, Jerome. “The Narrative Creation of Self” in Making Stories: Law, Literature, Life,(2002), (pp.63-76). 
+> - Bruner, Jerome. “Chapter 2: Two Modes of Thought”, in Actual Minds, Possible Worlds (1986), (pp.11–25).  
+> - “Small is Beautiful” EF Schumacher excerpt
+
+
 
 {: .lab }
-**Thurs, Feb 27 | Lab:** Relationship Building
+**Thurs, Feb 27 | Lab:** Relationships and 1:1s [Forming Teams]
 - Practice 1:1 conversations
 - Team formation activities
-- Reflection exercises
 
 {: .highlight }
 > - Hold and reflect on ~5 1:1s within the class, form your team
 
----
 
 ## Week 5
 
