@@ -312,7 +312,8 @@ Coaching through Challenges/Presentations
 ## Week 14: Celebrations and Group Reflections
 
 {: .lecture }
-**Tues, May 13 | Lecture**
+**Tues, May 13 | Lecture:**
+Celebrations and Group Reflections
 
 
 ---
