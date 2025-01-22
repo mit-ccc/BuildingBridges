@@ -31,7 +31,9 @@ Assignment
 {: .label .label-red }
 - Iterate on your story of self draft
 
-### Week 2
+---
+
+## Week 2
 
 {: .lecture }
 **Tues, Feb 11 | Lecture**  
@@ -41,7 +43,8 @@ Social Capital & Democracy
 - Small is beautiful
 - Atrophied local politics
 
-**Readings**
+Readings
+{: .label .label-green }
 - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
 - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
 - Bowling Alone Chapter 1: Thinking about Social Change in America
@@ -49,13 +52,18 @@ Social Capital & Democracy
 {: .lab }
 **Thurs, Feb 13 | Lab**  
 Public Narrative [Forming Teams]
+- Team formation activities
+- Story sharing and feedback
 
 Assignment
+{: .label .label-red }
 - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
 - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
 - Participate in our class Pol.is prompt
 
-### Week 3
+---
+
+## Week 3
 
 {: .note-red }
 **Tues, Feb 18**  
@@ -66,6 +74,7 @@ No Class - Presidents Day
 Media and Social Media
 - Impact of social media on public discourse
 - Challenges and opportunities in digital spaces
+- Platform dynamics and effects
 
 Readings
 {: .label .label-green }
@@ -74,13 +83,16 @@ Readings
 - van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
 - Roy, D. (2023). The Internet could be so good. Really. The Atlantic
 
-### Week 4
+---
+
+## Week 4
 
 {: .lecture }
 **Tues, Feb 25 | Lecture**  
 Relationships
 - Understanding relationship-based organizing
 - Building meaningful connections
+- Power of personal narratives
 
 Readings
 {: .label .label-green }
@@ -93,12 +105,15 @@ Readings
 Relationship Building
 - Practice 1:1 conversations
 - Team formation activities
+- Reflection exercises
 
 Assignment
 {: .label .label-red }
 - Hold and reflect on ~5 1:1s within the class, form your team
 
-### Week 5
+---
+
+## Week 5
 
 {: .lecture }
 **Tues, Mar 4 | Lecture**  
@@ -106,6 +121,7 @@ Structure & Organization
 - Democracy in teams
 - Leadership development
 - Snowflake model
+- Organizational principles
 
 Readings
 {: .label .label-green }
@@ -119,32 +135,39 @@ Readings
 Team Launch
 - Establishing team dynamics
 - Setting expectations
+- Role definition
 
 Assignment
 {: .label .label-red }
 - Finish launching your team, submit your team-launch packet
 - As a team, hold 10 1:1s with constituency members
 
-### Week 6
+---
+
+## Week 6
 
 {: .lecture }
 **Tues, Mar 12 | Lecture**  
 Campaign Design
 - Designing a Campaign (Strategy, Action)
 - Leadership development principles
+- Strategic planning
 
 {: .lab }
 **Thurs, Mar 14 | Lab**  
 Conversation Campaign
 - Designing your conversation campaign
 - Planning implementation
+- Role assignments
 
 Assignment
 {: .label .label-red }
 - Finish launching your campaign, submit campaign launch packet
 - Identify 1-2 potential leaders for kickoff
 
-### Week 7
+---
+
+## Week 7
 
 {: .lecture }
 **Tues, Mar 18 | Lecture**  
@@ -153,7 +176,6 @@ Dialogue & Public Opinion
 - Public opinion vs. public thought
 - Agency setting via prompt design
 - Limitations of traditional methods
-- Random selection vs. circles of trust
 
 Readings
 {: .label .label-green }
@@ -175,10 +197,14 @@ Assignment
 - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
 - Submit packet
 
+---
+
 {: .note-red }
 **Spring Break: March 24 - March 31**
 
-### Week 8
+---
+
+## Week 8
 
 {: .lecture }
 **Tues, Apr 1 | Lecture**  
@@ -187,21 +213,22 @@ Sensemaking
 - Analytics vs. Sensemaking
 - Kathy Cramer's method
 - Qualitative research methods
-- Evolution of CCC approach
-
 
 {: .lab }
 **Thurs, Apr 3 | Lab**  
 Leadership & AI
 - Kickoffs and Building Leadership
 - AI Sensemaking techniques
+- Practice sessions
 
 Assignment
 {: .label .label-red }
 - Hold your kickoffs! (first round of conversations at a public event)
 - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
-### Week 9
+---
+
+## Week 9
 
 {: .lecture }
 **Tues, Apr 8 | Lecture**  
@@ -230,7 +257,9 @@ Assignment
 - Create initial synthesis of your conversation data
 - Prepare preliminary visualizations
 
-### Week 10
+---
+
+## Week 10
 
 {: .lecture }
 **Tues, Apr 15 | Lecture**  
@@ -259,7 +288,9 @@ Assignment
 - Incorporate AI tools into your analysis process
 - Document insights and challenges
 
-### Week 11
+---
+
+## Week 11
 
 {: .lecture }
 **Tues, Apr 22 | Lecture**  
@@ -288,7 +319,9 @@ Assignment
 - Update project documentation
 - Prepare progress presentation
 
-### Week 12
+---
+
+## Week 12
 
 {: .lecture }
 **Tues, Apr 29 | Lecture**  
@@ -304,7 +337,6 @@ Readings
 - Lafont, C. (2019). Democracy without Shortcuts
 - Lippmann, W. (1919). The basic problem of democracy
 - Claudia Chwalisz's note on AI-powered tech in democracy
-- Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
 **Thurs, May 1 | Lab**  
@@ -319,7 +351,9 @@ Assignment
 - Finalize project materials
 - Practice presentation
 
-### Week 13
+---
+
+## Week 13
 
 {: .lecture }
 **Tues, May 7 | Lecture**  
@@ -348,7 +382,9 @@ Assignment
 - Complete and present final projects
 - Submit all documentation
 
-### Week 14
+---
+
+## Week 14
 
 {: .lecture }
 **Tues, May 13 | Lecture**  
@@ -357,6 +393,8 @@ Final Class
 - Course synthesis
 - Future directions
 - Community building beyond the course
+
+---
 
 ### Important Dates
 
