@@ -17,13 +17,11 @@ E15-341
 ## Week 1
 
 {: .lecture }
-**Tues, Feb 4 | Lecture**  
-Course overview
+**Tues, Feb 4 | Lecture:** Course overview
 - Zoom out on factors (economic, social, technological, environmental, etc)
 
 {: .lab }
-**Thurs, Feb 6 | Lab**  
-Public Narrative
+**Thurs, Feb 6 | Lab:** Public Narrative
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
@@ -36,8 +34,7 @@ Assignment
 ## Week 2
 
 {: .lecture }
-**Tues, Feb 11 | Lecture**  
-Social Capital & Democracy
+**Tues, Feb 11 | Lecture:** Social Capital & Democracy
 - Civic associations (schools for democracy)
 - Social capital (bridging, bonding)
 - Small is beautiful
@@ -50,8 +47,7 @@ Readings
 - Bowling Alone Chapter 1: Thinking about Social Change in America
 
 {: .lab }
-**Thurs, Feb 13 | Lab**  
-Public Narrative [Forming Teams]
+**Thurs, Feb 13 | Lab:** Public Narrative [Forming Teams]
 - Team formation activities
 - Story sharing and feedback
 
@@ -66,12 +62,10 @@ Assignment
 ## Week 3
 
 {: .note-red }
-**Tues, Feb 18**  
-No Class - Presidents Day
+**Tues, Feb 18:** No Class - Presidents Day
 
 {: .lecture }
-**Thurs, Feb 20 | Lecture**  
-Media and Social Media
+**Thurs, Feb 20 | Lecture:** Media and Social Media
 - Impact of social media on public discourse
 - Challenges and opportunities in digital spaces
 - Platform dynamics and effects
@@ -88,8 +82,7 @@ Readings
 ## Week 4
 
 {: .lecture }
-**Tues, Feb 25 | Lecture**  
-Relationships
+**Tues, Feb 25 | Lecture:** Relationships
 - Understanding relationship-based organizing
 - Building meaningful connections
 - Power of personal narratives
@@ -101,8 +94,7 @@ Readings
 - Bruner, Jerome. Selected readings
 
 {: .lab }
-**Thurs, Feb 27 | Lab**  
-Relationship Building
+**Thurs, Feb 27 | Lab:** Relationship Building
 - Practice 1:1 conversations
 - Team formation activities
 - Reflection exercises
@@ -116,8 +108,7 @@ Assignment
 ## Week 5
 
 {: .lecture }
-**Tues, Mar 4 | Lecture**  
-Structure & Organization
+**Tues, Mar 4 | Lecture:** Structure & Organization
 - Democracy in teams
 - Leadership development
 - Snowflake model
@@ -131,8 +122,7 @@ Readings
 - Additional readings on democracy and structure
 
 {: .lab }
-**Thurs, Mar 6 | Lab**  
-Team Launch
+**Thurs, Mar 6 | Lab:** Team Launch
 - Establishing team dynamics
 - Setting expectations
 - Role definition
@@ -147,15 +137,13 @@ Assignment
 ## Week 6
 
 {: .lecture }
-**Tues, Mar 12 | Lecture**  
-Campaign Design
+**Tues, Mar 12 | Lecture:** Campaign Design
 - Designing a Campaign (Strategy, Action)
 - Leadership development principles
 - Strategic planning
 
 {: .lab }
-**Thurs, Mar 14 | Lab**  
-Conversation Campaign
+**Thurs, Mar 14 | Lab:** Conversation Campaign
 - Designing your conversation campaign
 - Planning implementation
 - Role assignments
@@ -170,8 +158,7 @@ Assignment
 ## Week 7
 
 {: .lecture }
-**Tues, Mar 18 | Lecture**  
-Dialogue & Public Opinion
+**Tues, Mar 18 | Lecture:** Dialogue & Public Opinion
 - Conversation / Dialogue / Listening
 - Public opinion vs. public thought
 - Agency setting via prompt design
@@ -186,8 +173,7 @@ Readings
 - Stains, Jr., R. (2014). Repairing the breach: The power of dialogue
 
 {: .lab }
-**Thurs, Mar 20 | Lab**  
-Dialogue Design
+**Thurs, Mar 20 | Lab:** Dialogue Design
 - Designing dialogue processes
 - Recruitment strategies
 - Facilitation practice
@@ -207,16 +193,14 @@ Assignment
 ## Week 8
 
 {: .lecture }
-**Tues, Apr 1 | Lecture**  
-Sensemaking
+**Tues, Apr 1 | Lecture:** Sensemaking
 - Patterns across conversations
 - Analytics vs. Sensemaking
 - Kathy Cramer's method
 - Qualitative research methods
 
 {: .lab }
-**Thurs, Apr 3 | Lab**  
-Leadership & AI
+**Thurs, Apr 3 | Lab:** Leadership & AI
 - Kickoffs and Building Leadership
 - AI Sensemaking techniques
 - Practice sessions
@@ -231,8 +215,7 @@ Assignment
 ## Week 9
 
 {: .lecture }
-**Tues, Apr 8 | Lecture**  
-Output Creation
+**Tues, Apr 8 | Lecture:** Output Creation
 - Creating and sharing outputs from sensemaking
 - Synthesizing insights from conversations
 - Effective data visualization
@@ -245,8 +228,7 @@ Readings
 - Additional readings on data storytelling
 
 {: .lab }
-**Thurs, Apr 10 | Lab**  
-Sensemaking Practice
+**Thurs, Apr 10 | Lab:** Sensemaking Practice
 - Working with conversation data
 - Pattern identification
 - Theme development
@@ -262,8 +244,7 @@ Assignment
 ## Week 10
 
 {: .lecture }
-**Tues, Apr 15 | Lecture**  
-Human-AI Collaboration
+**Tues, Apr 15 | Lecture:** Human-AI Collaboration
 - Division of labor between people and AI
 - AI-assisted qualitative analysis
 - Ethical considerations
@@ -276,8 +257,7 @@ Readings
 - Ethics of AI in social research
 
 {: .lab }
-**Thurs, Apr 17 | Lab**  
-Sharing Workshop
+**Thurs, Apr 17 | Lab:** Sharing Workshop
 - Peer feedback sessions
 - Refining presentations
 - Improving visualizations
@@ -293,8 +273,7 @@ Assignment
 ## Week 11
 
 {: .lecture }
-**Tues, Apr 22 | Lecture**  
-Tech-Enhanced Dialogue
+**Tues, Apr 22 | Lecture:** Tech-Enhanced Dialogue
 - Case studies in tech-enhanced listening/bridging/deliberation
 - Platform design principles
 - Success stories and failures
@@ -307,8 +286,7 @@ Readings
 - Future of democracy and technology articles
 
 {: .lab }
-**Thurs, Apr 24 | Lab**  
-Project Support
+**Thurs, Apr 24 | Lab:** Project Support
 - Coaching through Challenges
 - Technical troubleshooting
 - Strategy refinement
@@ -324,8 +302,7 @@ Assignment
 ## Week 12
 
 {: .lecture }
-**Tues, Apr 29 | Lecture**  
-Digital Democracy
+**Tues, Apr 29 | Lecture:** Digital Democracy
 - Tech-enhanced deliberation: vTaiwan
 - Guest: Audrey Tang (unconfirmed)
 - Lessons from Taiwan's digital democracy
@@ -339,8 +316,7 @@ Readings
 - Claudia Chwalisz's note on AI-powered tech in democracy
 
 {: .lab }
-**Thurs, May 1 | Lab**  
-Project Support
+**Thurs, May 1 | Lab:** Project Support
 - Final project refinement
 - Presentation preparation
 - Documentation review
@@ -356,8 +332,7 @@ Assignment
 ## Week 13
 
 {: .lecture }
-**Tues, May 7 | Lecture**  
-Conflict Mediation
+**Tues, May 7 | Lecture:** Conflict Mediation
 - Tech-enhanced conflict mediation
 - Guest: Andrew Konya (unconfirmed)
 - Digital tools for conflict resolution
@@ -370,8 +345,7 @@ Readings
 - Technology and peace-building literature
 
 {: .lab }
-**Thurs, May 9 | Lab**  
-Final Presentations
+**Thurs, May 9 | Lab:** Final Presentations
 - Project demonstrations
 - Peer feedback
 - Discussion of lessons learned
@@ -387,8 +361,7 @@ Assignment
 ## Week 14
 
 {: .lecture }
-**Tues, May 13 | Lecture**  
-Final Class
+**Tues, May 13 | Lecture:** Final Class
 - Celebrations and Group Reflections
 - Course synthesis
 - Future directions
