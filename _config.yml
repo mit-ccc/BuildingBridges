@@ -59,7 +59,7 @@ callouts:
   highlight:
     title: Assignment
     color: yellow
-  reading:
+  note:
     title: Reading
     color: purple
 
