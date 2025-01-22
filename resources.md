@@ -18,6 +18,7 @@ nav_order: 4
 Coming Soon
 {: .label .label-yellow }
 
+---
 
 ## AI Sensemaking
 {: .d-inline-block }
@@ -25,11 +26,15 @@ Coming Soon
 Coming Soon
 {: .label .label-yellow }
 
+---
+
 ## Coalesce
 {: .d-inline-block }
 
 Coming Soon
 {: .label .label-yellow }
+
+---
 
 ## Pol.is
 {: .d-inline-block }
@@ -37,11 +42,15 @@ Coming Soon
 Coming Soon
 {: .label .label-yellow }
 
+---
+
 ## Conversation Mapping Tool
 {: .d-inline-block }
 
 Beta
 {: .label .label-purple }
+
+---
 
 ## Facilimate
 {: .d-inline-block }
@@ -49,11 +58,15 @@ Beta
 Coming Soon
 {: .label .label-yellow }
 
+---
+
 ## Relationship Mapping
 {: .d-inline-block }
 
 Coming Soon
 {: .label .label-yellow }
+
+---
 
 ## Visualization Tools
 {: .d-inline-block }
@@ -64,6 +77,8 @@ Coming Soon
 ### Sensemap
 
 ### Visualization Notebook
+
+---
 
 ## Basic Documentation
 {: .d-inline-block }
@@ -81,4 +96,4 @@ At minimum, you should use tools to:
 - Google Docs/Drive for collaborative note-taking
 - Miro/Mural for visual documentation
 - Voice recording apps (with participant consent)
-- Photography/video (with participant consent) 
+- Photography/video (with participant consent)
