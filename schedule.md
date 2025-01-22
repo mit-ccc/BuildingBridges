@@ -7,8 +7,8 @@ nav_order: 2
 # Schedule
 
 Tuesdays
-10:30 AM - 12:00 PM ET  
-E15-359
+> 10:30 AM - 12:00 PM ET  
+> E15-359
 
 Thursdays  
 10:30 PM - 12:00 PM ET  
