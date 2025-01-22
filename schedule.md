@@ -25,9 +25,9 @@ E15-341
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
-{: .green }
-> **Assignment**
-> - Iterate on your story of self draft
+{: .highlight }
+**Assignment**
+Iterate on your story of self draft
 
 ---
 
@@ -51,11 +51,11 @@ E15-341
 - Team formation activities
 - Story sharing and feedback
 
-{: .green }
-> **Assignment**
-> - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
-> - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
-> - Participate in our class Pol.is prompt
+{: .highlight }
+**Assignment**
+- Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
+- Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
+- Participate in our class Pol.is prompt
 
 ---
 
