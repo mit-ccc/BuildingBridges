@@ -58,7 +58,7 @@ Examine the roots of societal issues, such as weakened institutions, declining t
 > - Participate in our class Pol.is prompt
 
 
-## Week 3: (Social) Media’s Impact on Fragmentation in Public Spaces
+## Week 3: (Social) Media's Impact on Fragmentation in Public Spaces
 
 {: .note-red }
 **Tues, Feb 18:** No Class - Presidents Day. Lecture will be held on Thurs, Feb 20.
@@ -84,11 +84,11 @@ Delve into the impact of traditional and social media on public discourse. Discu
 Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
 
 {: .note }
-> - Simmons, Ian. “On One-to-Ones,” in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
-> - Nussbaum, Martha. “Chapter 1: Emotions and Judgments of Value”, in Upheavals of Thought: The Intelligence of Emotions, (2001), (pp. 19-33). 
-> - Bruner, Jerome. “The Narrative Creation of Self” in Making Stories: Law, Literature, Life,(2002), (pp.63-76). 
-> - Bruner, Jerome. “Chapter 2: Two Modes of Thought”, in Actual Minds, Possible Worlds (1986), (pp.11–25).  
-> - “Small is Beautiful” EF Schumacher excerpt
+> - Simmons, Ian. "On One-to-Ones," in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
+> - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value" in Upheavals of Thought: The Intelligence of Emotions, (2001), (pp. 19-33). 
+> - Bruner, Jerome. "The Narrative Creation of Self" in Making Stories: Law, Literature, Life,(2002), (pp.63-76). 
+> - Bruner, Jerome. "Chapter 2: Two Modes of Thought" in Actual Minds, Possible Worlds (1986), (pp.11–25).  
+> - "Small is Beautiful" EF Schumacher excerpt
 
 
 
@@ -107,16 +107,15 @@ Learn the art of relationship building through one-on-one interactions. Discuss 
 **Tues, Mar 4 | Lecture:** 
 Structure & Organization
 
-Guest Lecture
-{: .label .label-red }  > - Prof. Marshall Ganz, Harvard Kennedy School
+Guest Lecture{: .label .label-red } Prof. Marshall Ganz, Harvard Kennedy School
 
 
 {: .note }
 > - Danielle Allen Justice by Means of Democracy excerpt
-> - Han, Hahrie. “Introduction”, in How Organizations Develop Activists, (2014), (pp. 1-28).
+> - Han, Hahrie. "Introduction" in How Organizations Develop Activists, (2014), (pp. 1-28).
 > - Mutz D. C. (2006). Benefits of hearing the other side. In Hearing the other side: deliberative versus participatory democracy. Cambridge: Cambridge University Press, pp. 57-87. 
 > - The Tyranny of Structurelessness by Jo Freeman
-> - Hackman, Richard. “Designing Work for Individuals and for Groups”, adapted from J.R. Hackman, Work Design in J.R. Hackman & J.L. Suttle (Eds.) Improving Life at work: Behavioral science approaches to organizational change. Santa Monica: Goodyear Publishing Company, (1977). (pp. 242-255).
+> - Hackman, Richard. "Designing Work for Individuals and for Groups" in J.R. Hackman & J.L. Suttle (Eds.) Improving Life at work: Behavioral science approaches to organizational change. Santa Monica: Goodyear Publishing Company, (1977). (pp. 242-255).
 
 
 {: .lab }
@@ -253,7 +252,7 @@ Discuss the potential and pitfalls of AI in democratic processes. Examine how AI
 Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement.
 
 {: .note }
-> - Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better.
+> - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better.
 > - Lafont, C. (2019). Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy, Oxford (Introduction).
 > - Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link]
 
@@ -275,7 +274,7 @@ Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its 
 
 
 {: .note }
-> - Claudia Chwalisz’s note on the need for AI-powered tech in the next democratic paradigm.
+> - Claudia Chwalisz's note on the need for AI-powered tech in the next democratic paradigm.
 > - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
