@@ -18,7 +18,6 @@ nav_order: 4
 Coming Soon
 {: .label .label-yellow }
 
-A platform for facilitating and recording meaningful conversations across communities.
 
 ## AI Sensemaking
 {: .d-inline-block }
@@ -26,15 +25,11 @@ A platform for facilitating and recording meaningful conversations across commun
 Coming Soon
 {: .label .label-yellow }
 
-Tools and techniques for using AI to analyze and derive insights from conversation data.
-
 ## Coalesce
 {: .d-inline-block }
 
 Coming Soon
 {: .label .label-yellow }
-
-A collaborative platform for synthesizing insights from multiple conversations and sources.
 
 ## Pol.is
 {: .d-inline-block }
@@ -42,15 +37,11 @@ A collaborative platform for synthesizing insights from multiple conversations a
 Coming Soon
 {: .label .label-yellow }
 
-An AI-powered platform for gathering and visualizing public opinion at scale.
-
 ## Conversation Mapping Tool
 {: .d-inline-block }
 
 Beta
 {: .label .label-purple }
-
-A prototype tool for mapping and analyzing conversation patterns and themes. Work with the prototyping team to access and provide feedback.
 
 ## Facilimate
 {: .d-inline-block }
@@ -58,15 +49,11 @@ A prototype tool for mapping and analyzing conversation patterns and themes. Wor
 Coming Soon
 {: .label .label-yellow }
 
-A tool to assist in planning and facilitating effective group discussions and dialogues.
-
 ## Relationship Mapping
 {: .d-inline-block }
 
 Coming Soon
 {: .label .label-yellow }
-
-Tools and templates for mapping organizational relationships and power structures.
 
 ## Visualization Tools
 {: .d-inline-block }
@@ -75,10 +62,8 @@ Coming Soon
 {: .label .label-yellow }
 
 ### Sensemap
-A tool for creating visual representations of complex information and relationships.
 
 ### Visualization Notebook
-Templates and guidelines for creating effective data visualizations.
 
 ## Basic Documentation
 {: .d-inline-block }
@@ -86,8 +71,7 @@ Templates and guidelines for creating effective data visualizations.
 Available Now
 {: .label .label-green }
 
-At minimum, you should:
-- Record your conversations (with permission)
+At minimum, you should use tools to:
 - Take detailed notes
 - Document key insights and patterns
 - Track relationships and connections
