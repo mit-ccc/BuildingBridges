@@ -27,7 +27,7 @@ E15-341
 - Start Public Narrative
 
 {: .warning}
-**Assignment**
+
 Iterate on your story of self draft
 
 ---
@@ -42,7 +42,7 @@ Iterate on your story of self draft
 - Atrophied local politics
 
 {: .note }
-> **Readings**
+
 > - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
 > - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
 > - Bowling Alone Chapter 1: Thinking about Social Change in America
@@ -53,7 +53,7 @@ Iterate on your story of self draft
 - Story sharing and feedback
 
 {: .highlight }
-**Assignment**
+
 - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
 - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
 - Participate in our class Pol.is prompt
@@ -72,7 +72,7 @@ Iterate on your story of self draft
 - Platform dynamics and effects
 
 {: .note }
-> **Readings**
+
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
 > - Excerpt from Breaking the Social Prism (Chris Bail)
 > - van Dijck, J., & Poell, T. (2015). Social media and the transformation of public space
@@ -89,7 +89,7 @@ Iterate on your story of self draft
 - Power of personal narratives
 
 {: .note }
-> **Readings**
+
 > - Simmons, Ian. "On One-to-Ones"
 > - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
 > - Bruner, Jerome. Selected readings
@@ -101,7 +101,6 @@ Iterate on your story of self draft
 - Reflection exercises
 
 {: .highlight }
-> **Assignment**
 > - Hold and reflect on ~5 1:1s within the class, form your team
 
 ---
@@ -116,7 +115,6 @@ Iterate on your story of self draft
 - Organizational principles
 
 {: .note }
-> **Readings**
 > - Danielle Allen Justice by Means of Democracy excerpt
 > - "Small is Beautiful" EF Schumacher excerpt
 > - Han, Hahrie. "Introduction"
@@ -128,8 +126,7 @@ Iterate on your story of self draft
 - Setting expectations
 - Role definition
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Finish launching your team, submit your team-launch packet
 > - As a team, hold 10 1:1s with constituency members
 
@@ -149,8 +146,7 @@ Iterate on your story of self draft
 - Planning implementation
 - Role assignments
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Finish launching your campaign, submit campaign launch packet
 > - Identify 1-2 potential leaders for kickoff
 
@@ -166,7 +162,6 @@ Iterate on your story of self draft
 - Limitations of traditional methods
 
 {: .note }
-> **Readings**
 > - Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
 > - Cramer (2007). Scrutinizing and Listening to Stories
 > - Cramer (2022). "Chapter 4: The qualitative study of public opinion"
@@ -179,8 +174,7 @@ Iterate on your story of self draft
 - Recruitment strategies
 - Facilitation practice
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
 > - Submit packet
 
@@ -206,8 +200,7 @@ Iterate on your story of self draft
 - AI Sensemaking techniques
 - Practice sessions
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Hold your kickoffs! (first round of conversations at a public event)
 > - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
@@ -223,7 +216,6 @@ Iterate on your story of self draft
 - Storytelling with data
 
 {: .note }
-> **Readings**
 > - Few, S. (2013). Data Visualization for Human Perception
 > - Tufte, E. R. The Visual Display of Quantitative Information (selected chapters)
 > - Additional readings on data storytelling
@@ -235,8 +227,7 @@ Iterate on your story of self draft
 - Theme development
 - Creating visual summaries
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Create initial synthesis of your conversation data
 > - Prepare preliminary visualizations
 
@@ -252,7 +243,6 @@ Iterate on your story of self draft
 - Best practices for human-AI teaming
 
 {: .note }
-> **Readings**
 > - AI and Democracy readings (selected)
 > - Human-AI collaboration case studies
 > - Ethics of AI in social research
@@ -264,8 +254,7 @@ Iterate on your story of self draft
 - Improving visualizations
 - Story structure development
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Incorporate AI tools into your analysis process
 > - Document insights and challenges
 
@@ -281,7 +270,6 @@ Iterate on your story of self draft
 - Future directions
 
 {: .note }
-> **Readings**
 > - Selected case studies of digital democracy platforms
 > - Readings on civic tech successes and failures
 > - Future of democracy and technology articles
@@ -293,8 +281,7 @@ Iterate on your story of self draft
 - Strategy refinement
 - Implementation support
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Update project documentation
 > - Prepare progress presentation
 
@@ -310,7 +297,6 @@ Iterate on your story of self draft
 - Applications to other contexts
 
 {: .note }
-> **Readings**
 > - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
 > - Lafont, C. (2019). Democracy without Shortcuts
 > - Lippmann, W. (1919). The basic problem of democracy
@@ -323,8 +309,7 @@ Iterate on your story of self draft
 - Documentation review
 - Technical assistance
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Finalize project materials
 > - Practice presentation
 
@@ -340,7 +325,6 @@ Iterate on your story of self draft
 - Best practices and case studies
 
 {: .note }
-> **Readings**
 > - Conflict resolution in digital spaces
 > - Online mediation case studies
 > - Technology and peace-building literature
@@ -352,8 +336,7 @@ Iterate on your story of self draft
 - Discussion of lessons learned
 - Future applications
 
-{: .highlight }
-> **Assignment**
+{: .highlight } 
 > - Complete and present final projects
 > - Submit all documentation
 
