@@ -41,7 +41,7 @@ Iterate on your story of self draft
 - Small is beautiful
 - Atrophied local politics
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
 > - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
@@ -71,7 +71,7 @@ Iterate on your story of self draft
 - Challenges and opportunities in digital spaces
 - Platform dynamics and effects
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Tufekci, Zeynep. "Preface" in Twitter and Tear Gas (2017)
 > - Excerpt from Breaking the Social Prism (Chris Bail)
@@ -88,7 +88,7 @@ Iterate on your story of self draft
 - Building meaningful connections
 - Power of personal narratives
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Simmons, Ian. "On One-to-Ones"
 > - Nussbaum, Martha. "Chapter 1: Emotions and Judgments of Value"
@@ -115,7 +115,7 @@ Iterate on your story of self draft
 - Snowflake model
 - Organizational principles
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Danielle Allen Justice by Means of Democracy excerpt
 > - "Small is Beautiful" EF Schumacher excerpt
@@ -165,7 +165,7 @@ Iterate on your story of self draft
 - Agency setting via prompt design
 - Limitations of traditional methods
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Cramer (2009). Scholars as Citizens: Studying Public Opinion through Ethnography
 > - Cramer (2007). Scrutinizing and Listening to Stories
@@ -222,7 +222,7 @@ Iterate on your story of self draft
 - Effective data visualization
 - Storytelling with data
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Few, S. (2013). Data Visualization for Human Perception
 > - Tufte, E. R. The Visual Display of Quantitative Information (selected chapters)
@@ -251,7 +251,7 @@ Iterate on your story of self draft
 - Ethical considerations
 - Best practices for human-AI teaming
 
-{: .blue }
+{: .note }
 > **Readings**
 > - AI and Democracy readings (selected)
 > - Human-AI collaboration case studies
@@ -280,7 +280,7 @@ Iterate on your story of self draft
 - Success stories and failures
 - Future directions
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Selected case studies of digital democracy platforms
 > - Readings on civic tech successes and failures
@@ -309,7 +309,7 @@ Iterate on your story of self draft
 - Lessons from Taiwan's digital democracy
 - Applications to other contexts
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better
 > - Lafont, C. (2019). Democracy without Shortcuts
@@ -339,7 +339,7 @@ Iterate on your story of self draft
 - Digital tools for conflict resolution
 - Best practices and case studies
 
-{: .blue }
+{: .note }
 > **Readings**
 > - Conflict resolution in digital spaces
 > - Online mediation case studies
