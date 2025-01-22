@@ -27,7 +27,7 @@ E15-341
 - Start Public Narrative
 
 {: .highlight}
-Iterate on your story of self draft
+- Iterate on your story of self draft
 
 ---
 
@@ -51,10 +51,10 @@ Iterate on your story of self draft
 - Team formation activities
 - Story sharing and feedback
 
-{: .highlight}
-- Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
-- Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
-- Participate in our class Pol.is prompt
+{: .highlight }
+> - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
+> - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
+> - Participate in our class Pol.is prompt
 
 ---
 
