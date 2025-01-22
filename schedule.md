@@ -58,7 +58,7 @@ Examine the roots of societal issues, such as weakened institutions, declining t
 > - Participate in our class Pol.is prompt
 
 
-## Week 3: (Social) Media's Impact on Fragmentation in Public Spaces
+## Week 3: (Social) Media’s Impact on Fragmentation in Public Spaces
 
 {: .note-red }
 **Tues, Feb 18:** No Class - Presidents Day. Lecture will be held on Thurs, Feb 20.
@@ -107,7 +107,8 @@ Learn the art of relationship building through one-on-one interactions. Discuss 
 **Tues, Mar 4 | Lecture:** 
 Structure & Organization
 
-Guest Lecture <span class="label label-red">Prof. Marshall Ganz</span>, Harvard Kennedy School
+<span class="label label-red">Guest Lecture</span> Prof. Marshall Ganz, Harvard Kennedy School
+
 
 
 {: .note }
@@ -252,7 +253,7 @@ Discuss the potential and pitfalls of AI in democratic processes. Examine how AI
 Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement.
 
 {: .note }
-> - Chwalisz, C. A Movement That's Quietly Reshaping Democracy For The Better.
+> - Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better.
 > - Lafont, C. (2019). Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy, Oxford (Introduction).
 > - Lippmann, W. (1919, November). The basic problem of democracy. The Atlantic [link]
 
@@ -269,12 +270,11 @@ Explore case studies of tech-enhanced civic dialogue, including projects from CC
 **Tues, Apr 29 | Lecture:** 
 Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes.
 
-{: .warning }
-> - Guest Lecturer 
+<span class="label label-red">Guest Lecture</span> 
 
 
 {: .note }
-> - Claudia Chwalisz's note on the need for AI-powered tech in the next democratic paradigm.
+> - Claudia Chwalisz’s note on the need for AI-powered tech in the next democratic paradigm.
 > - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
@@ -291,8 +291,7 @@ Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its 
 **Tues, May 7 | Lecture:** 
 Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts.
 
-{: .warning }
-> - Guest Lecturer 
+<span class="label label-red">Guest Lecture</span> 
 
 
 {: .note }
