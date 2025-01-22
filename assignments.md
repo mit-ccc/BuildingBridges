@@ -56,9 +56,6 @@ Content coming soon...
 - Initial project timeline
 - Plan for 10 constituency conversations
 
-### Submission
-Submit your team launch packet on Canvas by March 6th. -->
-
 ---
 
 ## Midterm Project, including Campaign Launch Packet and Dialogue Script & Recruitment Plan
