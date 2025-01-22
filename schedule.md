@@ -21,7 +21,7 @@ Thursdays
 
 | Header 1          | Header 2          |
 |--------------------|-------------------|
-| Regular content    | <div class="note">This is a callout block in a table.</div> |
+| Regular content    | {: .note } This is a callout block in a table. |
 
 {: .lecture }
 **Tues, Feb 4 | Lecture:** 
