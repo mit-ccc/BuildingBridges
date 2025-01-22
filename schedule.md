@@ -6,23 +6,23 @@ nav_order: 2
 
 # Schedule
 
-Tuesdays and Thursdays  
-11:00 AM - 12:30 PM ET  
-E14-633
+Tuesdays
+10:30 AM - 12:00 PM ET  
+E15-359
 
 Thursdays  
-2:00 PM - 3:30 PM ET  
-E14-648
+10:30 PM - 12:00 PM ET  
+E15-341
 
-### Week 1
+## Week 1
 
 {: .lecture }
-**Mon, Feb 4 | Lecture**  
+**Tues, Feb 4 | Lecture**  
 Course overview
 - Zoom out on factors (economic, social, technological, environmental, etc)
 
 {: .lab }
-**Wed, Feb 6 | Lab**  
+**Thurs, Feb 6 | Lab**  
 Public Narrative
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
@@ -34,25 +34,23 @@ Assignment
 ### Week 2
 
 {: .lecture }
-**Mon, Feb 11 | Lecture**  
+**Tues, Feb 11 | Lecture**  
 Social Capital & Democracy
 - Civic associations (schools for democracy)
 - Social capital (bridging, bonding)
 - Small is beautiful
 - Atrophied local politics
 
-Readings
-{: .label .label-green }
+**Readings**
 - Bohm, D. (1996). On dialogue. New York: Routledge, pp. 1-5
 - Herzig, M. and Chasin, L. (2006). Fostering dialogue across divides
 - Bowling Alone Chapter 1: Thinking about Social Change in America
 
 {: .lab }
-**Wed, Feb 13 | Lab**  
+**Thurs, Feb 13 | Lab**  
 Public Narrative [Forming Teams]
 
 Assignment
-{: .label .label-red }
 - Sign up for a facilitated dialogue hosted by [CCC member] with your classmates
 - Iterate on your story of self draft / Hold and reflect on ~5 1:1s within the class
 - Participate in our class Pol.is prompt
@@ -60,11 +58,11 @@ Assignment
 ### Week 3
 
 {: .note-red }
-**Mon, Feb 18**  
+**Tues, Feb 18**  
 No Class - Presidents Day
 
 {: .lecture }
-**Wed, Feb 20 | Lecture**  
+**Thurs, Feb 20 | Lecture**  
 Media and Social Media
 - Impact of social media on public discourse
 - Challenges and opportunities in digital spaces
@@ -79,7 +77,7 @@ Readings
 ### Week 4
 
 {: .lecture }
-**Mon, Feb 25 | Lecture**  
+**Tues, Feb 25 | Lecture**  
 Relationships
 - Understanding relationship-based organizing
 - Building meaningful connections
@@ -91,7 +89,7 @@ Readings
 - Bruner, Jerome. Selected readings
 
 {: .lab }
-**Wed, Feb 27 | Lab**  
+**Thurs, Feb 27 | Lab**  
 Relationship Building
 - Practice 1:1 conversations
 - Team formation activities
@@ -103,7 +101,7 @@ Assignment
 ### Week 5
 
 {: .lecture }
-**Mon, Mar 4 | Lecture**  
+**Tues, Mar 4 | Lecture**  
 Structure & Organization
 - Democracy in teams
 - Leadership development
@@ -117,7 +115,7 @@ Readings
 - Additional readings on democracy and structure
 
 {: .lab }
-**Wed, Mar 6 | Lab**  
+**Thurs, Mar 6 | Lab**  
 Team Launch
 - Establishing team dynamics
 - Setting expectations
@@ -130,13 +128,13 @@ Assignment
 ### Week 6
 
 {: .lecture }
-**Mon, Mar 12 | Lecture**  
+**Tues, Mar 12 | Lecture**  
 Campaign Design
 - Designing a Campaign (Strategy, Action)
 - Leadership development principles
 
 {: .lab }
-**Wed, Mar 14 | Lab**  
+**Thurs, Mar 14 | Lab**  
 Conversation Campaign
 - Designing your conversation campaign
 - Planning implementation
@@ -149,7 +147,7 @@ Assignment
 ### Week 7
 
 {: .lecture }
-**Mon, Mar 18 | Lecture**  
+**Tues, Mar 18 | Lecture**  
 Dialogue & Public Opinion
 - Conversation / Dialogue / Listening
 - Public opinion vs. public thought
@@ -166,7 +164,7 @@ Readings
 - Stains, Jr., R. (2014). Repairing the breach: The power of dialogue
 
 {: .lab }
-**Wed, Mar 20 | Lab**  
+**Thurs, Mar 20 | Lab**  
 Dialogue Design
 - Designing dialogue processes
 - Recruitment strategies
@@ -183,7 +181,7 @@ Assignment
 ### Week 8
 
 {: .lecture }
-**Mon, Apr 1 | Lecture**  
+**Tues, Apr 1 | Lecture**  
 Sensemaking
 - Patterns across conversations
 - Analytics vs. Sensemaking
@@ -191,8 +189,9 @@ Sensemaking
 - Qualitative research methods
 - Evolution of CCC approach
 
+
 {: .lab }
-**Wed, Apr 3 | Lab**  
+**Thurs, Apr 3 | Lab**  
 Leadership & AI
 - Kickoffs and Building Leadership
 - AI Sensemaking techniques
@@ -205,7 +204,7 @@ Assignment
 ### Week 9
 
 {: .lecture }
-**Mon, Apr 8 | Lecture**  
+**Tues, Apr 8 | Lecture**  
 Output Creation
 - Creating and sharing outputs from sensemaking
 - Synthesizing insights from conversations
@@ -219,7 +218,7 @@ Readings
 - Additional readings on data storytelling
 
 {: .lab }
-**Wed, Apr 10 | Lab**  
+**Thurs, Apr 10 | Lab**  
 Sensemaking Practice
 - Working with conversation data
 - Pattern identification
@@ -234,7 +233,7 @@ Assignment
 ### Week 10
 
 {: .lecture }
-**Mon, Apr 15 | Lecture**  
+**Tues, Apr 15 | Lecture**  
 Human-AI Collaboration
 - Division of labor between people and AI
 - AI-assisted qualitative analysis
@@ -248,7 +247,7 @@ Readings
 - Ethics of AI in social research
 
 {: .lab }
-**Wed, Apr 17 | Lab**  
+**Thurs, Apr 17 | Lab**  
 Sharing Workshop
 - Peer feedback sessions
 - Refining presentations
@@ -263,7 +262,7 @@ Assignment
 ### Week 11
 
 {: .lecture }
-**Mon, Apr 22 | Lecture**  
+**Tues, Apr 22 | Lecture**  
 Tech-Enhanced Dialogue
 - Case studies in tech-enhanced listening/bridging/deliberation
 - Platform design principles
@@ -277,7 +276,7 @@ Readings
 - Future of democracy and technology articles
 
 {: .lab }
-**Wed, Apr 24 | Lab**  
+**Thurs, Apr 24 | Lab**  
 Project Support
 - Coaching through Challenges
 - Technical troubleshooting
@@ -292,7 +291,7 @@ Assignment
 ### Week 12
 
 {: .lecture }
-**Mon, Apr 29 | Lecture**  
+**Tues, Apr 29 | Lecture**  
 Digital Democracy
 - Tech-enhanced deliberation: vTaiwan
 - Guest: Audrey Tang (unconfirmed)
@@ -308,7 +307,7 @@ Readings
 - Excerpt from Plurality: The Future of Collaborative Technology and Democracy
 
 {: .lab }
-**Wed, May 1 | Lab**  
+**Thurs, May 1 | Lab**  
 Project Support
 - Final project refinement
 - Presentation preparation
@@ -323,7 +322,7 @@ Assignment
 ### Week 13
 
 {: .lecture }
-**Mon, May 7 | Lecture**  
+**Tues, May 7 | Lecture**  
 Conflict Mediation
 - Tech-enhanced conflict mediation
 - Guest: Andrew Konya (unconfirmed)
@@ -337,7 +336,7 @@ Readings
 - Technology and peace-building literature
 
 {: .lab }
-**Wed, May 9 | Lab**  
+**Thurs, May 9 | Lab**  
 Final Presentations
 - Project demonstrations
 - Peer feedback
@@ -352,7 +351,7 @@ Assignment
 ### Week 14
 
 {: .lecture }
-**Mon, May 13 | Lecture**  
+**Tues, May 13 | Lecture**  
 Final Class
 - Celebrations and Group Reflections
 - Course synthesis
