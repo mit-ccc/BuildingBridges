@@ -14,7 +14,7 @@ Thursdays
 10:30 PM - 12:00 PM ET  
 E15-341
 
----
+
 # Section 1: Roots of Fragmentation 
 
 ## Week 1: Why Build Bridges?
@@ -124,7 +124,6 @@ E15-341
 > - As a team, hold 10 1:1s with people you believe to be in your constituency. Document them with structured notes, be ready to bring the findings next week.
 
 
----
 
 ## Week 6: Turning Ideas into Action: Strategizing for Conversation Campaigns
 
@@ -194,7 +193,6 @@ E15-341
 > - Hold your kickoffs! (first round of conversations at a public event)
 > - Recruit 1 new facilitator or leader to help with kickoff responsibilities
 
----
 
 ## Week 9: Storytelling and Sharing Out
 
@@ -216,9 +214,6 @@ E15-341
 {: .highlight } 
 > - Finish codebook development
 > - Finish highlighting and coding your conversations
-
-
----
 
 ## Week 10: Technology and Democracy: Defining Roles for AI and Humans
 
@@ -256,7 +251,6 @@ E15-341
 {: .highlight } 
 > - Continue working on your final projects 
 
----
 
 ## Week 12:  Collaborative Governance: Insights from vTaiwan 
 
@@ -278,7 +272,6 @@ E15-341
 {: .highlight } 
 > - Continue working on your final projects
 
----
 
 ## Week 13: Mediating Conflict Through Technology 
 
@@ -298,7 +291,7 @@ E15-341
 > - Complete and present final projects
 > - Submit all documentation
 
----
+
 
 ## Week 14: Celebrations and Group Reflections
 
