@@ -20,12 +20,13 @@ E15-341
 **Tues, Feb 4 | Lecture:** Course overview
 - Zoom out on factors (economic, social, technological, environmental, etc)
 
-{: .lab }
+
+{: .lab}
 **Thurs, Feb 6 | Lab:** Public Narrative
 - Scoping and eliciting interest/motivation from the students
 - Start Public Narrative
 
-{: .warning }
+{: .warning}
 **Assignment**
 Iterate on your story of self draft
 
