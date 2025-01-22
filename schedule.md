@@ -100,7 +100,7 @@ Iterate on your story of self draft
 - Team formation activities
 - Reflection exercises
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Hold and reflect on ~5 1:1s within the class, form your team
 
@@ -128,7 +128,7 @@ Iterate on your story of self draft
 - Setting expectations
 - Role definition
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Finish launching your team, submit your team-launch packet
 > - As a team, hold 10 1:1s with constituency members
@@ -149,7 +149,7 @@ Iterate on your story of self draft
 - Planning implementation
 - Role assignments
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Finish launching your campaign, submit campaign launch packet
 > - Identify 1-2 potential leaders for kickoff
@@ -179,7 +179,7 @@ Iterate on your story of self draft
 - Recruitment strategies
 - Facilitation practice
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Finish your dialogue script, conversation facilitation timeline, and recruitment plan
 > - Submit packet
@@ -206,7 +206,7 @@ Iterate on your story of self draft
 - AI Sensemaking techniques
 - Practice sessions
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Hold your kickoffs! (first round of conversations at a public event)
 > - Recruit 1 new facilitator or leader to help with kickoff responsibilities
@@ -235,7 +235,7 @@ Iterate on your story of self draft
 - Theme development
 - Creating visual summaries
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Create initial synthesis of your conversation data
 > - Prepare preliminary visualizations
@@ -264,7 +264,7 @@ Iterate on your story of self draft
 - Improving visualizations
 - Story structure development
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Incorporate AI tools into your analysis process
 > - Document insights and challenges
@@ -293,7 +293,7 @@ Iterate on your story of self draft
 - Strategy refinement
 - Implementation support
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Update project documentation
 > - Prepare progress presentation
@@ -323,7 +323,7 @@ Iterate on your story of self draft
 - Documentation review
 - Technical assistance
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Finalize project materials
 > - Practice presentation
@@ -352,7 +352,7 @@ Iterate on your story of self draft
 - Discussion of lessons learned
 - Future applications
 
-{: .green }
+{: .highlight }
 > **Assignment**
 > - Complete and present final projects
 > - Submit all documentation
