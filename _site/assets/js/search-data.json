@@ -118,14 +118,14 @@
     
     "relUrl": "/"
   },"17": {
-    "doc": "Resources",
-    "title": "Resources",
+    "doc": "Readings",
+    "title": "Readings",
     "content": " ",
     "url": "/Spring_ccc_class/readings.html",
     
     "relUrl": "/readings.html"
   },"18": {
-    "doc": "Resources",
+    "doc": "Readings",
     "title": "Table of contents",
     "content": ". Content coming soon… . ",
     "url": "/Spring_ccc_class/readings.html#table-of-contents",
@@ -148,63 +148,63 @@
   },"21": {
     "doc": "Resources",
     "title": "Cortico Platform",
-    "content": "Coming Soon . A platform for facilitating and recording meaningful conversations across communities. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#cortico-platform",
     
     "relUrl": "/resources.html#cortico-platform"
   },"22": {
     "doc": "Resources",
     "title": "AI Sensemaking",
-    "content": "Coming Soon . Tools and techniques for using AI to analyze and derive insights from conversation data. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#ai-sensemaking",
     
     "relUrl": "/resources.html#ai-sensemaking"
   },"23": {
     "doc": "Resources",
     "title": "Coalesce",
-    "content": "Coming Soon . A collaborative platform for synthesizing insights from multiple conversations and sources. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#coalesce",
     
     "relUrl": "/resources.html#coalesce"
   },"24": {
     "doc": "Resources",
     "title": "Pol.is",
-    "content": "Coming Soon . An AI-powered platform for gathering and visualizing public opinion at scale. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#polis",
     
     "relUrl": "/resources.html#polis"
   },"25": {
     "doc": "Resources",
     "title": "Conversation Mapping Tool",
-    "content": "Beta . A prototype tool for mapping and analyzing conversation patterns and themes. Work with the prototyping team to access and provide feedback. ",
+    "content": "Beta . ",
     "url": "/Spring_ccc_class/resources.html#conversation-mapping-tool",
     
     "relUrl": "/resources.html#conversation-mapping-tool"
   },"26": {
     "doc": "Resources",
     "title": "Facilimate",
-    "content": "Coming Soon . A tool to assist in planning and facilitating effective group discussions and dialogues. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#facilimate",
     
     "relUrl": "/resources.html#facilimate"
   },"27": {
     "doc": "Resources",
     "title": "Relationship Mapping",
-    "content": "Coming Soon . Tools and templates for mapping organizational relationships and power structures. ",
+    "content": "Coming Soon . ",
     "url": "/Spring_ccc_class/resources.html#relationship-mapping",
     
     "relUrl": "/resources.html#relationship-mapping"
   },"28": {
     "doc": "Resources",
     "title": "Visualization Tools",
-    "content": "Coming Soon . Sensemap . A tool for creating visual representations of complex information and relationships. Visualization Notebook . Templates and guidelines for creating effective data visualizations. ",
+    "content": "Coming Soon . Sensemap . Visualization Notebook . ",
     "url": "/Spring_ccc_class/resources.html#visualization-tools",
     
     "relUrl": "/resources.html#visualization-tools"
   },"29": {
     "doc": "Resources",
     "title": "Basic Documentation",
-    "content": "Available Now . At minimum, you should: . | Record your conversations (with permission) | Take detailed notes | Document key insights and patterns | Track relationships and connections | Maintain a shared team documentation space | . Recommended Tools . | Google Docs/Drive for collaborative note-taking | Miro/Mural for visual documentation | Voice recording apps (with participant consent) | Photography/video (with participant consent) | . ",
+    "content": "Available Now . At minimum, you should use tools to: . | Take detailed notes | Document key insights and patterns | Track relationships and connections | Maintain a shared team documentation space | . Recommended Tools . | Google Docs/Drive for collaborative note-taking | Miro/Mural for visual documentation | Voice recording apps (with participant consent) | Photography/video (with participant consent) | . ",
     "url": "/Spring_ccc_class/resources.html#basic-documentation",
     
     "relUrl": "/resources.html#basic-documentation"

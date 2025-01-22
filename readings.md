@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resources
+title: Readings
 nav_order: 5
 ---
 
-# Resources
+# Readings
 {: .no_toc }
 
 ## Table of contents
