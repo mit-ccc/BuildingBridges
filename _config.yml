@@ -56,7 +56,7 @@ callouts:
   lab:
     title: Lab
     color: green
-  assignment:
+  highlight:
     title: Assignment
     color: yellow
   reading:
