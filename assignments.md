@@ -11,14 +11,14 @@ nav_order: 3
 ## Table of contents
 {: .no_toc }
 
-* Story of Self
-* Team Formation & Pol.is
-* Team Launch Packet
-* Campaign Launch Packet
-* Dialogue Script & Recruitment Plan
-* Midterm Project
-* Kickoff Event
-* Final Project
+* [Story of Self](#story-of-self)
+* [Team Formation & Pol.is](#team-formation--polis)
+* [Team Launch Packet](#team-launch-packet)
+* [Campaign Launch Packet](#campaign-launch-packet)
+* [Dialogue Script & Recruitment Plan](#dialogue-script--recruitment-plan)
+* [Midterm Project](#midterm-project)
+* [Kickoff Event](#kickoff-event)
+* [Final Project](#final-project)
 {: .toc }
 
 ---
@@ -29,6 +29,8 @@ nav_order: 3
 Due Feb 6
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Write a draft of your "Story of Self" - a personal narrative that connects your lived experiences to your motivation for taking this course and engaging in civic work. This assignment helps develop your public narrative skills and builds connections within the class.
 
 ### Requirements
@@ -38,7 +40,7 @@ Write a draft of your "Story of Self" - a personal narrative that connects your 
 - Be prepared to share portions in class
 
 ### Submission
-Submit your draft on Canvas before class on February 6th. You will receive peer feedback during the lab session.
+Submit your draft on Canvas before class on February 6th. You will receive peer feedback during the lab session. -->
 
 ---
 
@@ -48,6 +50,8 @@ Submit your draft on Canvas before class on February 6th. You will receive peer 
 Due Feb 13
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Participate in team formation activities and engage with the class Pol.is conversation. This helps build relationships and surface shared interests within the class community.
 
 ### Requirements
@@ -57,7 +61,7 @@ Participate in team formation activities and engage with the class Pol.is conver
 - Form or join a project team based on shared interests
 
 ### Submission
-Submit your conversation reflections and team preferences on Canvas by February 13th.
+Submit your conversation reflections and team preferences on Canvas by February 13th. -->
 
 ---
 
@@ -67,6 +71,8 @@ Submit your conversation reflections and team preferences on Canvas by February 
 Due Mar 6
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Work with your team to create a launch packet that outlines your team structure, goals, and initial plans.
 
 ### Requirements
@@ -77,7 +83,7 @@ Work with your team to create a launch packet that outlines your team structure,
 - Plan for 10 constituency conversations
 
 ### Submission
-Submit your team launch packet on Canvas by March 6th.
+Submit your team launch packet on Canvas by March 6th. -->
 
 ---
 
@@ -87,6 +93,8 @@ Submit your team launch packet on Canvas by March 6th.
 Due Mar 14
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Design a conversation campaign that will engage your target community in meaningful dialogue.
 
 ### Requirements
@@ -98,7 +106,7 @@ Design a conversation campaign that will engage your target community in meaning
 - Leadership development strategy
 
 ### Submission
-Submit your campaign launch packet on Canvas by March 14th.
+Submit your campaign launch packet on Canvas by March 14th. -->
 
 ---
 
@@ -108,6 +116,8 @@ Submit your campaign launch packet on Canvas by March 14th.
 Due Mar 20
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Finalize your dialogue facilitation materials and detailed recruitment strategy.
 
 ### Requirements
@@ -118,7 +128,7 @@ Finalize your dialogue facilitation materials and detailed recruitment strategy.
 - Confirmation and reminder process
 
 ### Submission
-Submit all materials on Canvas by March 20th.
+Submit all materials on Canvas by March 20th. -->
 
 ---
 
@@ -128,6 +138,8 @@ Submit all materials on Canvas by March 20th.
 Due Mar 24
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Document your team's progress and learning so far, including initial conversation data and analysis.
 
 ### Requirements
@@ -138,7 +150,7 @@ Document your team's progress and learning so far, including initial conversatio
 - Next steps and timeline
 
 ### Submission
-Submit your midterm documentation on Canvas by March 24th.
+Submit your midterm documentation on Canvas by March 24th. -->
 
 ---
 
@@ -148,6 +160,8 @@ Submit your midterm documentation on Canvas by March 24th.
 Due Apr 3
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Host your first public conversation event, demonstrating your team's facilitation skills.
 
 ### Requirements
@@ -158,7 +172,7 @@ Host your first public conversation event, demonstrating your team's facilitatio
 - Submit event reflection and documentation
 
 ### Submission
-Submit your event documentation and reflection on Canvas by April 3rd.
+Submit your event documentation and reflection on Canvas by April 3rd. -->
 
 ---
 
@@ -168,6 +182,8 @@ Submit your event documentation and reflection on Canvas by April 3rd.
 Due May 13
 {: .label .label-red }
 
+Content coming soon... 
+<!-- 
 Create final documentation of your team's conversation project, including analysis and recommendations.
 
 ### Requirements
@@ -179,4 +195,4 @@ Create final documentation of your team's conversation project, including analys
 - Final presentation materials
 
 ### Submission
-Submit all final materials on Canvas by May 13th and present in class on May 9th. 
+Submit all final materials on Canvas by May 13th and present in class on May 9th.  -->
