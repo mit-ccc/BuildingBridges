@@ -48,7 +48,7 @@ footer_content: ""
 # Callouts
 callouts:
   warning:
-    title: Warning
+    title: Guest Lecture
     color: red
   lecture:
     title: Lecture

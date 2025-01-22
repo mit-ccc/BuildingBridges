@@ -32,7 +32,7 @@ Explore the details of the course, dive deeper into MIT Center for Constructive 
 - Start Public Narrative
 
 {: .highlight}
-- Iterate on your story of self draft
+> - Iterate on your story of self draft
 
 ## Week 2: Fractured Communities: Understanding Societal Challenges
 
@@ -80,7 +80,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 
 
 {: .lecture }
-**Tues, Feb 25 | Lecture:** Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
+**Tues, Feb 25 | Lecture:** 
+Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
 
 {: .note }
 > - Simmons, Ian. “On One-to-Ones,” in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
@@ -131,7 +132,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 6: Turning Ideas into Action: Strategizing for Conversation Campaigns
 
 {: .lecture }
-**Tues, Mar 12 | Lecture:** Develop strategies, tactics, and timelines for your conversation campaign. Explore methods for engaging constituencies and identifying leaders to support your initiatives.
+**Tues, Mar 12 | Lecture:** 
+Develop strategies, tactics, and timelines for your conversation campaign. Explore methods for engaging constituencies and identifying leaders to support your initiatives.
 
 {: .lab }
 **Thurs, Mar 14 | Lab:** Designing your Conversation Campaign - Strategy, Tactics, Timeline
@@ -152,7 +154,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 7: Designing Dialogue to Listen and Create Bridges
 
 {: .lecture }
-**Tues, Mar 18 | Lecture:** Learn how to design and facilitate meaningful conversations. Understand the differences between focus groups, public opinion polls, and public thought. Discuss strategies for gathering input that prioritizes dialogue, listening, and shared understanding.
+**Tues, Mar 18 | Lecture:** 
+Learn how to design and facilitate meaningful conversations. Understand the differences between focus groups, public opinion polls, and public thought. Discuss strategies for gathering input that prioritizes dialogue, listening, and shared understanding.
 
 
 {: .note }
@@ -182,7 +185,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 8: Sensemaking to Reveal and Interpret Patterns Across Conversations
 
 {: .lecture }
-**Tues, Apr 1 | Lecture:** Explore the intersection of analytics and sensemaking. Learn sensemaking best practices and explore how to integrate AI into the sensemaking process.
+**Tues, Apr 1 | Lecture:** 
+Explore the intersection of analytics and sensemaking. Learn sensemaking best practices and explore how to integrate AI into the sensemaking process.
 
 {: .note } 
 > - Forthcoming
@@ -200,7 +204,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 9: Storytelling and Sharing Out
 
 {: .lecture }
-**Tues, Apr 8 | Lecture:**  Understand the principles of effective storytelling to engage diverse audiences. Learn how to reflect, bridge, and influence through trust, emotion, and evidence-based narratives.
+**Tues, Apr 8 | Lecture:**  
+Understand the principles of effective storytelling to engage diverse audiences. Learn how to reflect, bridge, and influence through trust, emotion, and evidence-based narratives.
 
 {: .note }
 > - Few, S. (2013). Data Visualization for Human Perception
@@ -221,7 +226,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 10: Technology and Democracy: Defining Roles for AI and Humans
 
 {: .lecture }
-**Tues, Apr 15 | Lecture:** Discuss the potential and pitfalls of AI in democratic processes. Examine how AI and human agency can complement each other in fostering trust and participation.
+**Tues, Apr 15 | Lecture:** 
+Discuss the potential and pitfalls of AI in democratic processes. Examine how AI and human agency can complement each other in fostering trust and participation.
 
 
 {: .note }
@@ -241,7 +247,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 11:  Civic Innovation: Lessons from Tech-Enhanced Dialogue
 
 {: .lecture }
-**Tues, Apr 22 | Lecture:** Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement.
+**Tues, Apr 22 | Lecture:** 
+Explore case studies of tech-enhanced civic dialogue, including projects from CCC, Cortico, and other initiatives. Learn strategies for overcoming challenges in civic engagement.
 
 {: .note }
 > - Chwalisz, C. A Movement That’s Quietly Reshaping Democracy For The Better.
@@ -258,7 +265,8 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 12:  Collaborative Governance: Insights from vTaiwan 
 
 {: .lecture }
-**Tues, Apr 29 | Lecture:** Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes.
+**Tues, Apr 29 | Lecture:** 
+Analyze vTaiwan as a leading example of tech-enhanced deliberation. Discuss its applications for creating scalable and inclusive democratic processes.
 
 {: .warning }
 > - Guest Lecturer 
@@ -279,7 +287,9 @@ Delve into the impact of traditional and social media on public discourse. Discu
 ## Week 13: Mediating Conflict Through Technology 
 
 {: .lecture }
-**Tues, May 7 | Lecture:** Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts.
+**Tues, May 7 | Lecture:** 
+Investigate the role of technology in conflict mediation. Learn how tech-enabled tools can facilitate dialogue and resolve disputes in polarized contexts.
+
 {: .warning }
 > - Guest Lecturer 
 
