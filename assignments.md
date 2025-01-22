@@ -14,8 +14,6 @@ nav_order: 3
 * [Story of Self](#story-of-self)
 * [Team Formation & Pol.is](#team-formation--polis)
 * [Team Launch Packet](#team-launch-packet)
-* [Campaign Launch Packet](#campaign-launch-packet)
-* [Dialogue Script & Recruitment Plan](#dialogue-script--recruitment-plan)
 * [Midterm Project](#midterm-project)
 * [Kickoff Event](#kickoff-event)
 * [Final Project](#final-project)
@@ -26,7 +24,7 @@ nav_order: 3
 ## Story of Self
 {: .d-inline-block }
 
-Due Feb 6
+Due Feb 13
 {: .label .label-red }
 
 Content coming soon... 
@@ -36,17 +34,17 @@ Content coming soon...
 ## Team Formation & Pol.is
 {: .d-inline-block }
 
-Due Feb 13
+Due Feb 27
 {: .label .label-red }
 
 Content coming soon... 
 
 ---
 
-## Team Launch Packet
+## Team Launch Packet and 10 1:1s
 {: .d-inline-block }
 
-Due Mar 6
+Due Mar 14
 {: .label .label-red }
 
 Content coming soon...
@@ -63,30 +61,10 @@ Submit your team launch packet on Canvas by March 6th. -->
 
 ---
 
-## Campaign Launch Packet
+## Midterm Project, including Campaign Launch Packet and Dialogue Script & Recruitment Plan
 {: .d-inline-block }
 
-Due Mar 14
-{: .label .label-red }
-
-Content coming soon... 
-
----
-
-## Dialogue Script & Recruitment Plan
-{: .d-inline-block }
-
-Due Mar 20
-{: .label .label-red }
-
-Content coming soon... 
-
----
-
-## Midterm Project
-{: .d-inline-block }
-
-Due Mar 24
+Due Mar 21
 {: .label .label-red }
 
 Content coming soon... 
@@ -96,7 +74,7 @@ Content coming soon...
 ## Kickoff Event
 {: .d-inline-block }
 
-Due Apr 3
+Due Apr 10
 {: .label .label-red }
 
 Content coming soon... 
