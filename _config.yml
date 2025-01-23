@@ -1,7 +1,7 @@
 title: Building Bridges
 description: Tools for Social Cohesion
-baseurl: "/BuildingBridges" # the subpath of your site
-url: "https://mit-ccc.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site
+url: "buidlingbridges.media.mit.edu" # the base hostname & protocol for your site
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
