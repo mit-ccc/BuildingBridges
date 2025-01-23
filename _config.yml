@@ -1,7 +1,7 @@
 title: Building Bridges
 description: Tools for Social Cohesion
-baseurl: "" # the subpath of your site
-url: "buidlingbridges.media.mit.edu" # the base hostname & protocol for your site
+baseurl: "" # empty for custom domain
+url: "https://buildingbridges.media.mit.edu" # fixed typo and added https://
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
