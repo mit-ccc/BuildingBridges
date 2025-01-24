@@ -31,9 +31,9 @@ nav_sort: case_sensitive
 # External navigation links
 nav_external_links: []
 
-# Calendar settings
-calendar:
-  embed_url: "" # Add your Google Calendar embed URL here
+# # Calendar settings
+# calendar:
+  # embed_url: "" # Add your Google Calendar embed URL here
 
 # Back to top link
 back_to_top: true
