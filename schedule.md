@@ -107,7 +107,7 @@ Learn the art of relationship building through one-on-one interactions. Discuss 
 **Tues, Mar 4 | Lecture:** 
 Structure & Organization
 
-<span class="label label-red">Guest Lecture</span> Prof. Marshall Ganz, Harvard Kennedy School
+<span class="label label-red">Guest Lecture</span> 
 
 
 
