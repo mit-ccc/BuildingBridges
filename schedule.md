@@ -14,6 +14,13 @@ Thursdays
 > 10:30 PM - 12:00 PM ET  
 > E15-341
 
+---
+
+# Course Calendar
+
+<div class="calendar-container" style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+  <iframe src="https://calendar.google.com/calendar/embed?src=c_217a431e067d21a71e499e0e4fbe57e5e22c2de9c03741c13705285cf437c18a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+</div>
 
 # Section 1: Roots of Fragmentation 
 
