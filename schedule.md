@@ -88,6 +88,7 @@ Delve into the impact of traditional and social media on public discourse. Discu
 
 {: .lecture }
 **Tues, Feb 25 | Lecture:** 
+<span class="label label-red">Guest Lecture</span> Marshall Ganz, Harvard Kennedy School
 Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
 
 {: .note }
@@ -113,11 +114,6 @@ Learn the art of relationship building through one-on-one interactions. Discuss 
 {: .lecture }
 **Tues, Mar 4 | Lecture:** 
 Structure & Organization
-
-<span class="label label-red">Guest Lecture</span> 
-
-
-
 {: .note }
 > - Danielle Allen Justice by Means of Democracy excerpt
 > - Han, Hahrie. “Introduction”, in How Organizations Develop Activists, (2014), (pp. 1-28).

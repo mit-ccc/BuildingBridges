@@ -6,7 +6,7 @@ description: "Building Bridges: Tools for Social Cohesion"
 permalink: /
 ---
 
-# Building Bridges: Tools for Social Cohesion
+# MAS.S65 Building Bridges: Tools for Social Cohesion
 This course explores the roots of social fragmentation and equips students with tools and strategies to foster social cohesion and constructive communication within groups. By blending theory and practice, students will learn how to analyze challenges in public and personal spheres, design dialogue processes, and build teams structured to organize community conversations. 
 
 The course introduces and builds civic muscles such as deep listening, facilitation, and coaching, as well as broader change-making techniques like diagnosing challenges, strategizing, and taking action. Through lectures, skills-based labs, and a conversation project, students will practice designing and leading meaningful conversations, leveraging AI-assisted sensemaking, and creating impactful outputs to share with their communities. 
@@ -23,6 +23,8 @@ This hands-on course prepares students to build civic muscles for engaging with 
 - Deb Roy ([dkroy@media.mit.edu](mailto:dkroy@media.mit.edu))
 - Maggie Hughes ([mhughes4@media.mit.edu](mailto:mhughes4@media.mit.edu))
 - Dimitra Dimitrakopoulou ([dimitrad@media.mit.edu](mailto:dimitrad@media.mit.edu))
+
+**Teaching Assistant:**
 - Danny Kessler ([kessler1@media.mit.edu](mailto:kessler1@media.mit.edu))
 
 **Meeting Time and Location:**
