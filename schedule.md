@@ -87,8 +87,9 @@ Delve into the impact of traditional and social media on public discourse. Discu
 
 
 {: .lecture }
-**Tues, Feb 25 | Lecture:** 
 <span class="label label-red">Guest Lecture</span> Marshall Ganz, Harvard Kennedy School
+
+**Tues, Feb 25 | Lecture:** 
 Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
 
 {: .note }
