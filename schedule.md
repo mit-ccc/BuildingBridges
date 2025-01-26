@@ -87,10 +87,11 @@ Delve into the impact of traditional and social media on public discourse. Discu
 
 
 {: .lecture }
-<span class="label label-red">Guest Lecture</span> Marshall Ganz, Harvard Kennedy School
 
 **Tues, Feb 25 | Lecture:** 
 Learn the art of relationship building through one-on-one interactions. Discuss the emotional and narrative aspects of relationships in organizing teams.
+
+<span class="label label-red">Guest Lecture</span> Marshall Ganz, Harvard Kennedy School
 
 {: .note }
 > - Simmons, Ian. “On One-to-Ones,” in The Next Steps of Organizing: Putting Theory into Action, Sociology 91r Seminar, (1998), (pp. 12-15) (1998). 
