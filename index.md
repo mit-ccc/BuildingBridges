@@ -47,7 +47,7 @@ Thursdays
 Students should leave this course with:
 - A baseline understanding of why social fragmentation occurs
 - Knowledge of how to foster social cohesion within a group
-- Skills to design a small-scale team for social cohesion
+- Skills to form, launch, and maintain a small-scale team for social cohesion
 - An initial set of tools and methods for building civic muscles for constructive communication
 
 ## Course Structure
